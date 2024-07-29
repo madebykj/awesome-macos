@@ -1,13 +1,12 @@
-# awesome-macos
-A curated list of 😎 awesome applications, softwares and tools for  macOS.
+# apps-macos
+A list of applications, softwares and tools for  macOS.
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-![Open-Source Software][OSS Icon] means **open source**, click to open **open source** repo;\
+![Open-Source][OSS Icon] means **open source**;\
 ![Freeware][Freeware Icon] means **free** to use, or **free** personal license;\
+![Shareware][awesome-list Icon] means **Paid app** for the item;
 ![App Store][app-store Icon] means **App store** hyperlink;\
 ![Homebrew][Homebrew Icon] means **Homebrew Formulae** hyperlink;\
-![Awesome List][awesome-list Icon] means hyperlink to a corresponding **Awesome list** for the item;
+
 
 #### Command Line Tools
 - [FFmpeg](https://ffmpeg.org/) - A complete, cross-platform solution to record, convert and stream audio and video. [![Freeware][Freeware Icon]](https://ffmpeg.org/) [![Homebrew][Homebrew Icon]](https://formulae.brew.sh/formula/ffmpeg)
