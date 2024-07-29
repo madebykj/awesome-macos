@@ -5,7 +5,7 @@ A list of applications, softwares and tools for  macOS.
 ![Freeware][Freeware Icon] means **free** to use, or **free** personal license;\
 ![Shareware][awesome-list Icon] means **Paid app**;\
 ![App Store][app-store Icon] means **App store**;\
-![Homebrew][Homebrew Icon] means **Homebrew Formulae**;\
+![Homebrew][Homebrew Icon] means **Homebrew Formulae**
 
 
 #### Command Line Tools
