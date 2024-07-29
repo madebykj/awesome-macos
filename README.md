@@ -8,49 +8,88 @@ A list of applications, softwares and tools for  macOS.
 ![Homebrew][Homebrew Icon] means **homebrew formulae**
 
 
-#### Command Line Tools
+
+- [Arc](https://arc.net/) - An innovative web browser developed by The Browser Company. It’s designed to enhance your browsing experience with features that adapt to your needs and preferences. [![Freeware][Freeware Icon]](https://arc.net/)
+
+  
+- [Firefox](https://www.mozilla.org/en-US/firefox/mac/) - Faster page loading, less memory usage and packed with features, the new Firefox for Mac. [![Open-Source Software][OSS Icon]](https://www.mozilla.org/en-US/firefox/mac/)
+  
 - [FFmpeg](https://ffmpeg.org/) - A complete, cross-platform solution to record, convert and stream audio and video. [![Freeware][Freeware Icon]](https://ffmpeg.org/) [![Homebrew][Homebrew Icon]](https://formulae.brew.sh/formula/ffmpeg)
+
+
+- [GIMP](https://www.gimp.org/) - An acronym for GNU Image Manipulation Program. [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/GNOME/gimp)
+  
+- [Google Chrome](https://www.google.com/chrome/) - A more simple, secure, and faster web browser than ever, with Google’s smarts built-in. [![Open-Source Software][OSS Icon]](https://www.google.com/chrome/)
+  
+
+- [ImageOptim](https://imageoptim.com/mac) - Removes bloated metadata. Saves disk space & bandwidth by compressing images without losing quality. [![Open-Source Software][OSS Icon]](https://github.com/ImageOptim/ImageOptim)
+
+- [Inkscape](https://inkscape.org/) - Vector graphics editor. [![Open-Source Software][OSS Icon]](https://inkscape.org/)
+  
 - [iTerm2](https://iterm2.com/) - A terminal emulator for macOS that does amazing things. [![Open-Source Software][OSS Icon]](https://github.com/gnachman/iTerm2) [![Homebrew][Homebrew Icon]](https://formulae.brew.sh/cask/iterm2)
+
+
+- [Krita](https://krita.org/en/) - Free and open-source painting and sketching program. [![Open-Source Software][OSS Icon]](https://krita.org/en/)
+  
+  
 - [m-cli](https://github.com/rgcr/m-cli#how-to-use) - Lets you interact with utilities and applications entirely in Terminal. [![Freeware][Freeware Icon]](https://github.com/rgcr/m-cli) [![Homebrew][Homebrew Icon]](https://formulae.brew.sh/formula/m-cli)
+
+- [Microsoft Edge](https://www.microsoft.com/en-us/edge/download/) - A fast and secure browser with world class performance, built-in privacy, and more. [![Open-Source Software][OSS Icon]](https://www.microsoft.com/en-us/edge/download/)
+
+
+- [Orion Browser by Kagi](https://browser.kagi.com/) - Lightweight, natively built with WebKit, made for you and your Mac. Industry-leading battery life, privacy respecting by design and native support for web extensions. [![Freeware][Freeware Icon]](https://www.omnigroup.com/more)
+
+
+- [Tor Browser](https://www.torproject.org/download/) - Defend yourself against tracking and surveillance. Circumvent censorship. [![Open-Source Software][OSS Icon]](https://www.torproject.org/download/)
+    
 - [tldr-pages](https://tldr.sh/) - A collection of community-maintained help pages for command-line tools, that aims to be a simpler, more approachable complement to traditional [man pages](https://en.wikipedia.org/wiki/Man_page). [![Open-Source Software][OSS Icon]](https://github.com/tldr-pages/tldr) [![Homebrew][Homebrew Icon]](https://formulae.brew.sh/formula/tldr)
+
+  
 - [Unar](https://theunarchiver.com/command-line) - The Unarchiver, command-line unarchiving tools supporting multiple formats. [![Freeware][Freeware Icon]](https://theunarchiver.com/command-line) [![Homebrew][Homebrew Icon]](https://formulae.brew.sh/formula/unar)
+
+  
 - [Xcode](https://developer.apple.com/xcode/) - Apple Xcode includes command-line tools which enable UNIX-style development via the Terminal app in macOS. [![Freeware][Freeware Icon]](https://developer.apple.com/xcode/resources/)
+
+  
 - [youtubedr](https://github.com/kkdai/youtube) - CLI to download YouTube videos in Golang. [![Open-Source Software][OSS Icon]](https://github.com/kkdai/youtube) [![Homebrew][Homebrew Icon]](https://formulae.brew.sh/formula/youtubedr)
+  
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) - Command-line program to download videos from YouTube.com and other video sites. [![Open-Source Software][OSS Icon]](https://github.com/yt-dlp/yt-dlp) [![Homebrew][Homebrew Icon]](https://formulae.brew.sh/formula/yt-dlp)
 
-#### Browsers
-- [Arc](https://arc.net/) - An innovative web browser developed by The Browser Company. It’s designed to enhance your browsing experience with features that adapt to your needs and preferences. [![Freeware][Freeware Icon]](https://arc.net/)
-- [Firefox](https://www.mozilla.org/en-US/firefox/mac/) - Faster page loading, less memory usage and packed with features, the new Firefox for Mac. [![Open-Source Software][OSS Icon]](https://www.mozilla.org/en-US/firefox/mac/)
-- [Google Chrome](https://www.google.com/chrome/) - A more simple, secure, and faster web browser than ever, with Google’s smarts built-in. [![Open-Source Software][OSS Icon]](https://www.google.com/chrome/)
-- [Microsoft Edge](https://www.microsoft.com/en-us/edge/download/) - A fast and secure browser with world class performance, built-in privacy, and more. [![Open-Source Software][OSS Icon]](https://www.microsoft.com/en-us/edge/download/)
-- [Orion Browser by Kagi](https://browser.kagi.com/) - Lightweight, natively built with WebKit, made for you and your Mac. Industry-leading battery life, privacy respecting by design and native support for web extensions. [![Freeware][Freeware Icon]](https://www.omnigroup.com/more)
-- [Tor Browser](https://www.torproject.org/download/) - Defend yourself against tracking and surveillance. Circumvent censorship. [![Open-Source Software][OSS Icon]](https://www.torproject.org/download/)
 
-#### Developers
-- [GIMP](https://www.gimp.org/) - An acronym for GNU Image Manipulation Program. [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/GNOME/gimp)
-- [ImageOptim](https://imageoptim.com/mac) - Removes bloated metadata. Saves disk space & bandwidth by compressing images without losing quality. [![Open-Source Software][OSS Icon]](https://github.com/ImageOptim/ImageOptim)
-- [Inkscape](https://inkscape.org/) - Vector graphics editor. [![Open-Source Software][OSS Icon]](https://inkscape.org/)
-- [Krita](https://krita.org/en/) - Free and open-source painting and sketching program. [![Open-Source Software][OSS Icon]](https://krita.org/en/)
 
-#### Editors
+
+  
+
+  
+
+  
+
+
+
+
+
+
+
+
+
 - [CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS, elevate your code editing experience. Open source, free forever. [![Open-Source Software][OSS Icon]](https://github.com/CodeEditApp/CodeEdit) [![App Store][app-store Icon]](https://apps.apple.com/app/coteditor/id1024640650?ls=1)
 - [CotEditor](https://coteditor.com/) - Lightweight Plain-Text Editor for macOS. [![Open-Source Software][OSS Icon]](https://github.com/coteditor/CotEditor)
 - [Visual Studio Code](https://code.visualstudio.com/) - A code editor redefined and optimized for building and debugging modern web and cloud applications. [![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode/)
 - [Zed](https://zed.dev/) - Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. [![Open-Source Software][OSS Icon]](https://zed.dev/)
 
-#### Media Player
+
 - [IINA](https://iina.io/) - The modern media player for macOS. [![Open-Source Software][OSS Icon]](https://github.com/iina/iina)
 - [VLC Media Player](https://www.videolan.org/vlc/) - A free and open source cross-platform multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols. [![Open-Source Software][OSS Icon]](https://www.videolan.org/vlc/)
 
-#### Package Manager
+
 - [Homebrew](https://brew.sh/) - The Missing Package Manager for macOS (or Linux). [![Open-Source Software][OSS Icon]](https://github.com/Homebrew/brew)
 - [MacPorts](https://www.macports.org/) - An open-source community initiative to design an easy-to-use system for compiling, installing, and upgrading either command-line, X11 or Aqua based open-source software. [![Open-Source Software][OSS Icon]](https://www.macports.org/)
 
-#### Remote Desktop
+
 - [AnyDesk](https://anydesk.com/en/downloads/mac-os) - The secure & intuitive remote desktop software, and take advantage of the application's innovative features. [![Freeware][Freeware Icon]](https://anydesk.com/en/downloads/mac-os)
 - [RustDesk](https://rustdesk.com/) - A remote desktop software, the open source TeamViewer alternative, works out of the box, no configuration required. [![Open-Source Software][OSS Icon]](https://github.com/rustdesk/rustdesk)
 
-#### Utilities
+
 - [Android File Transfer](https://www.android.com/filetransfer/) - Browse and transfer files between your Mac computer and your Android device. [![Freeware][Freeware Icon]](https://www.android.com/filetransfer/)
 - [AppCleaner](https://freemacsoft.net/appcleaner/) - A small application which allows you to thoroughly uninstall unwanted apps. [![Freeware][Freeware Icon]](https://freemacsoft.net/appcleaner/)
 - [App Eraser](https://github.com/davunt/app-eraser) - Removes unwanted macOS applications and any related files that they leave behind. [![Open-Source Software][OSS Icon]](https://github.com/davunt/app-eraser)
@@ -73,21 +112,12 @@ A list of applications, softwares and tools for  macOS.
 - [The Unarchiver](https://macpaw.com/the-unarchiver) - Unpack any archive, in no time. [![Freeware][Freeware Icon]](https://macpaw.com/the-unarchiver)
 - [Transmission](https://transmissionbt.com/) - Transmission is a fast, easy, and free BitTorrent client. [![Open-Source Software][OSS Icon]](https://github.com/transmission/transmission)
 
-#### Wallpaper
+
 - [Every Default macOS Wallpaper](https://512pixels.net/projects/default-mac-wallpapers-in-5k/) - Every major version of macOS has come with a new default wallpaper. [![Freeware][Freeware Icon]](https://512pixels.net/projects/default-mac-wallpapers-in-5k/)
 - [Dynamic Wallpaper Club](https://dynamicwallpaper.club/gallery) - A service to create and a platform to share Dynamic Wallpapers for Mac. [![Freeware][Freeware Icon]](https://dynamicwallpaper.club/gallery)
 - [Mac Sierra Wallpapers](https://wallpaperaccess.com/mac-sierra) - A collection of the top 39 Mac Sierra wallpapers and backgrounds available for download for free. [![Freeware][Freeware Icon]](https://wallpaperaccess.com/mac-sierra)
 - [Grayscale of Mountain](https://unsplash.com/photos/GjpUV4k76F8) - Taken from 5083m behind Dingboche, Nepal.
 
-#### Others
-- [Is Apple Silicon ready?](https://isapplesiliconready.com/) - The complete guide for MacOS Apps Optimized for Apple Silicon Macs and the M1 Processor.
-
-#### Awesome macOS Repo on GitHub
-- [![Awesome List][awesome-list Icon] agarrharr/awesome-macos-screensavers ![GitHub Repo stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers)
-- [![Awesome List][awesome-list Icon] iCHAIT/awesome-macOS ![GitHub Repo stars](https://img.shields.io/github/stars/iCHAIT/awesome-macOS)](https://github.com/iCHAIT/awesome-macOS)
-- [![Awesome List][awesome-list Icon] jaywcjlove/awesome-mac ![GitHub Repo stars](https://img.shields.io/github/stars/jaywcjlove/awesome-mac)](https://github.com/jaywcjlove/awesome-mac)
-- [![Awesome List][awesome-list Icon] serhii-londar/open-source-mac-os-apps ![GitHub Repo stars](https://img.shields.io/github/stars/serhii-londar/open-source-mac-os-apps)](https://github.com/serhii-londar/open-source-mac-os-apps)
-- [![Awesome List][awesome-list Icon] phmullins/awesome-macos ![GitHub Repo stars](https://img.shields.io/github/stars/phmullins/awesome-macos)](https://github.com/phmullins/awesome-macos)
 
 <p align="right"><a href="#awesome-macos"><b>↥ To the top</b></a></p>
 
