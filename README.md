@@ -3,9 +3,9 @@ A list of applications, softwares and tools for  macOS.
 
 ![Open-Source][OSS Icon] means **open source**;\
 ![Freeware][Freeware Icon] means **free** to use, or **free** personal license;\
-![Shareware][awesome-list Icon] means **Paid app**;\
-![App Store][app-store Icon] means **App store**;\
-![Homebrew][Homebrew Icon] means **Homebrew Formulae**
+![Shareware][awesome-list Icon] means **paid app**;\
+![App Store][app-store Icon] means **app store**;\
+![Homebrew][Homebrew Icon] means **homebrew formulae**
 
 
 #### Command Line Tools
