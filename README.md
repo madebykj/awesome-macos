@@ -4,186 +4,150 @@ A list of applications, softwares and tools for  macOS.
 - [(Un)MuteMic](https://github.com/CocoaHeadsBrasil/MuteUnmuteMic) - macOS app to mute & unmute the input volume of your microphone. Perfect for podcasters.
 - [1440 Minutes Left Today](https://1440app.com/) - Keep a track of how many minutes you have left until the day is over, right in your menu bar.
 - [1Password](https://1password.com/) - Cross-platform password management tool.
-- [2048 Game](https://apps.apple.com/us/app/2048-game/id871033113?mt=12) - ✅ Yes, Full Native Apple Silicon Support - [🧪 Apple Silicon App Tested](https://doesitarm.com/apple-silicon-app-test/)
 - [2Do](https://www.2doapp.com/) - Powerful & flexible GTD task manager.
 - [5 GUIs](https://zeezide.de/en/products/5guis/) - Detect which UI frameworks an app is using.
-- [ABBYY FineReader PDF](https://pdf.abbyy.com/finereader-pdf-for-mac/) - ✳️ Yes, works via Rosetta 2 as of v15.0.2 - [Official Article](https://support.abbyy.com/hc/articles/360021357240-FineReader-PDF-for-Mac-and-Apple-M1-chip) [Release Notes](https://support.abbyy.com/hc/articles/4403148990994)
+- [ABBYY FineReader PDF](https://pdf.abbyy.com/finereader-pdf-for-mac/) - Convert PDFs, document images and scans with unmatched accuracy.
 - [ABetterFinderRename](https://www.publicspace.net/ABetterFinderRename/) - Simple. Complete. Powerful.
 - [Ableton Live](https://www.ableton.com/) - Digital Audio Workstation.
-- [Ableton](https://www.ableton.com/en/live/) - ✅ Yes, Native Apple Silicon Support as of v11.1 - [Compatibility Notes](https://help.ableton.com/hc/en-us/articles/115001261150-Mac-Compatibility-with-Live)
-- [Access Menu for macOS](https://titanium-software.fr/en/accessmenu.html) - ✅ Yes, Full Native Apple Silicon Support - [Release Notes](https://titanium-software.fr/en/release_accessmenu.html)
+- [Access Menu for macOS](https://titanium-software.fr/en/accessmenu.html) - Customizable utility for macOS that you can use to quickly access the startup disk's folders from the menu bar.
 - [Acid.Cam.v2.OSX](https://github.com/lostjared/Acid.Cam.v2.OSX) - Acid Cam v2 for macOS distorts video to create art.
 - [ack](https://beyondgrep.com) - A tool like grep, optimized for programmers.
 - [Acorn](https://secure.flyingmeat.com/acorn/) - Great Mac OS X picture and photo editor, built for humans.
 - [Acreom](https://acreom.com/) - Capture notes, break down issues, track progress, create a knowledge-base.
-- [Acrobat Pro](https://acrobat.adobe.com/us/en/acrobat/acrobat-pro.html) - ✅ Yes, Native Apple Silicon Support as of v21.007.20091 - [Known Issues](https://helpx.adobe.com/acrobat/kb/mac-os11-big-sur-compatibility.html#KnownIssues) [Official Adobe Status Page](https://helpx.adobe.com/download-install/kb/apple-silicon-m1-chip.html)
-- [Acrobat Reader](https://get.adobe.com/reader/) - ✅ Yes, Native Apple Silicon Support as of v21.007.20091 - [Official Article #1](https://helpx.adobe.com/acrobat/kb/mac-os11-big-sur-compatibility.html#WhendoesAdobeplantonativelysupportAppleSilicondevices) [Official Article #2](https://helpx.adobe.com/acrobat/kb/apple-silicon-m1-processor-support.html)
+- [Adobe Acrobat Pro](https://acrobat.adobe.com/us/en/acrobat/acrobat-pro.html) - Always enjoy the latest technology from the most collaborative, work-from-anywhere-anytime PDF tool available on any device.
+- [Adobe Acrobat Reader](https://get.adobe.com/reader/) - The world’s most trusted free PDF viewer.
 - [Actions](https://github.com/sindresorhus/Actions) - Provides many useful actions for the Shortcuts app.
 - [ActiveDock](https://noteifyapp.com/activedock/) - Customizable dock for macOS.
-- [ActivityWatch](https://activitywatch.net/) - ✳️ Yes, works via Rosetta 2 for v0.10.0 with issues reported on newer versions - [Verification](https://github.com/ThatGuySam/doesitarm/issues/832) [GitHub Issue](https://github.com/ActivityWatch/activitywatch/issues/630)
+- [ActivityWatch](https://activitywatch.net/) - ActivityWatch is an app that automatically tracks how you spend time on your devices.
 - [Actual](https://actualbudget.com/) - Enjoy managing your finances.
-- [act](https://github.com/nektos/act) - Run GitHub Actions locally
+- [act](https://github.com/nektos/act) - Run GitHub Actions locally.
 - [Adapter](https://macroplant.com/adapter) -  Free audio, video and image conversion software.
-- [AdBlock One](https://cleanerone.trendmicro.com/ad-block-one-for-mac/?utm_source=github&utm_medium=referral&utm_campaign=githubproject) - Your New Favorite Free Ad Blocker for macOS and iOS: Stop seeing annoying ads in Safari. Open websites faster. Browse the web more safely.
-- [AdBlock Pro for Safari](https://apps.apple.com/app/id1018301773) - ✅ Yes, full native support as of v8.1.0 - [Verification](https://github.com/ThatGuySam/doesitarm/issues/237#issue-746743506)
-- [AdGuard for Safari](https://github.com/adguardteam/adguardforsafari) - The most advanced ad blocking extension for Safari
-- [AdGuard](https://adguard.com/en/welcome.html) - ✅ Yes, Native Apple Silicon Support - [Verification](https://github.com/ThatGuySam/doesitarm/issues/788) [View on Setapp](https://setapp.sjv.io/c/2708043/850840/5114)
+- [AdBlock One](https://cleanerone.trendmicro.com/ad-block-one-for-mac/) - Your New Favorite Free Ad Blocker for macOS and iOS: Stop seeing annoying ads in Safari. Open websites faster. Browse the web more safely.
+- [AdBlock Pro for Safari](https://apps.apple.com/app/id1018301773) -Save data and speed up your Safari - block ads, trackers, unnecessary resources and bypass anti-adblock detectors.
+- [AdGuard for Safari](https://github.com/adguardteam/adguardforsafari) - The most advanced ad blocking extension for Safari.
+- [AdGuard](https://adguard.com/en/welcome.html) - Surf the Web ad-free and safely. Shields up!
 - [Adium](https://adium.im/) - Free instant messaging application for Mac OS X. Connect to AIM, MSN, SMPP, Yahoo and more.
-- [AdLock](https://adlock.com/adlock-for-macos/) - ✅ Yes, Native Apple Silicon Support - [Official Article](https://adlock.com/blog/adlock-for-m1-chip/) [Verification](https://github.com/ThatGuySam/doesitarm/issues/680#issue-908198983)
-- [Adobe Acrobat Reader](https://get.adobe.com/reader/) - The PDF reader that sucks the least
-- [Adobe Animate](https://www.adobe.com/products/animate.html) - ✳️ Yes, works via Rosetta 2 - [Official Adobe Status Page](https://helpx.adobe.com/download-install/kb/apple-silicon-m1-chip.html)
-- [Adobe Audition](https://www.adobe.com/products/audition.html) - ✅ Yes, Full Native Apple Silicon Support - [Release Notes](https://helpx.adobe.com/audition/user-guide.html/audition/using/whats-new/2021-1.ug.html) [Official Adobe Status Page](https://helpx.adobe.com/download-install/kb/apple-silicon-m1-chip.html)
-- [Adobe Bridge](https://www.adobe.com/products/bridge.html) - ✳️ Yes, works via Rosetta 2 with known issues - [Known Issues](https://helpx.adobe.com/bridge/kb/bridge-and-macos-big-sur.html#apple-silicon-compatibility) [Official Adobe Status Page](https://helpx.adobe.com/download-install/kb/apple-silicon-m1-chip.html)
-- [Adobe Media Encoder](https://www.adobe.com/products/media-encoder.html) - ✳️ Yes, works via Rosetta 2 - [Official Adobe Status Page](https://helpx.adobe.com/download-install/kb/apple-silicon-m1-chip.html)
-- [Adobe XD](https://www.adobe.com/products/xd.html) - ✅ Yes, Native Apple Silicon Support as of v42 - [Official Article](https://helpx.adobe.com/in/xd/kb/big-sur-apple-silicon-rosetta-emulation.html) [Official Adobe Status Page](https://helpx.adobe.com/download-install/kb/apple-silicon-m1-chip.html)
-- [Aegisub](https://github.com/Aegisub/Aegisub) - Free, cross-platform open source tool for creating and modifying subtitles. Aegisub makes it quick and easy to time subtitles to audio, and features many powerful tools for styling them, including a built-in real-time video preview.
+- [AdLock](https://adlock.com/adlock-for-macos/) - World’s first standalone adblocker application fully compatible with M1 Apple Silicon.
+- [Adobe Animate](https://www.adobe.com/products/animate.html) - Design animations for cartoons, banners, games, and the web with Animate.
+- [Adobe Audition](https://www.adobe.com/products/audition.html) - Create, mix, and design sound effects with the industry’s best digital audio editing software.
+- [Adobe Bridge](https://www.adobe.com/products/bridge.html) - Adobe Bridge is a powerful creative asset manager that lets you preview, organize, edit, and publish multiple creative assets quickly and easily.
+- [Adobe Media Encoder](https://www.adobe.com/products/media-encoder.html) - Media Encoder. Rock solid rendering.
+- [Aegisub](https://github.com/Aegisub/Aegisub) - Free, cross-platform open source tool for creating and modifying subtitles.
 - [Aerial](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Screensaver for Mac.
 - [Aether](https://getaether.net/) - Peer-to-peer ephemeral public communities.
 - [Affine](https://affine.pro/) - Affine is the next-generation collaborative knowledge base for professionals.
-- [Affinity Designer](https://affinity.serif.com/en-us/designer/) - ✅ Yes, fully supported as of v1.8.6 - [Press Release](https://affinity.serif.com/en-us/press/newsroom/affinity-apps-accelerate-with-macos-big-sur-and-native-m1-support/) [Apple Nov 10 Event](https://youtu.be/5AwdkGKmZ0I?t=1219)
-- [Affinity Photo](https://affinity.serif.com/en-us/publisher/) - ✅ Yes, fully supported as of v1.8.6 - [Press Release](https://affinity.serif.com/en-us/press/newsroom/affinity-apps-accelerate-with-macos-big-sur-and-native-m1-support/)
-- [Affinity Publisher](https://affinity.serif.com/en-us/publisher/) - ✅ Yes, fully supported as of v1.8.6 - [Press Release](https://affinity.serif.com/en-us/press/newsroom/affinity-apps-accelerate-with-macos-big-sur-and-native-m1-support/) [Apple Nov 10 Event](https://youtu.be/5AwdkGKmZ0I?t=1286)
-- [After Effects](https://www.adobe.com/products/aftereffects.html) - ✳️ Yes, works via Rosetta 2 - [Official Adobe Status Page](https://helpx.adobe.com/download-install/kb/apple-silicon-m1-chip.html)
-- [Agenda](https://agenda.com/) - ✅ Yes, Full Native Apple Silicon Support - [App Store Story](https://apps.apple.com/us/story/id1540024103)
+- [Affinity Designer](https://affinity.serif.com/en-us/designer/) - Affinity Designer is an award-winning vector graphics software setting the new industry standard in the world of design.
+- [Affinity Photo](https://affinity.serif.com/en-us/photo/) - Affinity Photo is the first choice of millions of creative and photography professionals around the world.
+- [Affinity Publisher](https://affinity.serif.com/en-us/publisher/) - Affinity Publisher is the next generation of professional page layout software.
+- [Adobe After Effects](https://www.adobe.com/products/aftereffects.html) - Your next move in motion design.
+- [Agenda](https://agenda.com/) - Organize your days, and start getting things done!
 - [AI Actions](https://sindresorhus.com/ai-actions) - AI actions for the Shortcuts app.
-- [Aiko](https://sindresorhus.com/aiko) - High-quality on-device transcription.
+- [Aiko](https://sindresorhus.com/aiko) - High-quality AI on-device transcription.
 - [Air Pasteboard](https://apps.apple.com/us/app/air-pasteboard/id1327733671?mt=12) - Quick pasteboard and file sharing.
-- [AirBuddy] - Monitor your wireless devices
-- [AirFoil](https://rogueamoeba.com/airfoil/) - Hear Your Audio Everywhere.
-- [Airfoil](https://rogueamoeba.com/airfoil/mac/) - ✅ Yes, Initial Native Apple Silicon Support as of v5.10.0 - [Release Notes](https://rogueamoeba.com/airfoil/mac/releasenotes.php) [Official Post](https://weblog.rogueamoeba.com/2020/11/16/rogue-amoeba-software-updates-for-macos-11-big-sur-and-m1-chip-based-macs/) 
-- [Airmail](https://airmailapp.com/) - ✅ Yes, Full Native Apple Silicon Support as of v4.5.1 - [Release History](https://apps.apple.com/app/apple-store/id918858936)
-- [AirMessage](https://airmessage.org/install/) - ✅ Yes, Native Apple Silicon Support as of v3.2.1 - [Release Notes](https://github.com/airmessage/airmessage-server-legacy/releases/tag/rel-3.2.1) [Verification](https://github.com/ThatGuySam/doesitarm/issues/881#issue-1130176479)
+- [AirBuddy](https://v2.airbuddy.app) - Monitor your wireless devices.
+- [AirFoil](https://rogueamoeba.com/airfoil/) - Streaming - Hear Your Audio Everywhere.
+- [Airmail](https://airmailapp.com/) - Lightning Fast Mail Client.
+- [AirMessage](https://airmessage.org) - iMessage. Across all your devices.
 - [AirParrot](https://www.airsquirrels.com/airparrot/) - Streaming and Mirroring for macOS.
 - [Airpass](https://github.com/alvesjtiago/airpass) - Status bar Mac application to overcome time constrained WiFi networks.
 - [AirServer](http://www.airserver.com/Download) - Most advanced screen mirroring software receiver for Mac, PC and Xbox One.
-- [Airtool](https://www.intuitibits.com/products/airtool/) - Capture Wi-Fi traffic Like a Pro.
-- [AJA Control Room](https://www.aja.com/products/aja-control-room#support) - ✅ Yes, Native Apple Silicon Support as of v16.1 - [Release Notes](https://www.aja.com/pdf/2021/AJA-Software-Installer_macOS_v16.1_ReleaseNotes.pdf)
-- [AJA ControlPanel](https://www.aja.com/products/aja-control-room#support) - ✅ Yes, Native Apple Silicon Support as of v16.1 - [Release Notes](https://www.aja.com/pdf/2021/AJA-Software-Installer_macOS_v16.1_ReleaseNotes.pdf)
-- [AJA Multi-Channel Config](https://www.aja.com/products/aja-control-room#support) - ✅ Yes, Native Apple Silicon Support as of v16.1 - [Release Notes](https://www.aja.com/pdf/2021/AJA-Software-Installer_macOS_v16.1_ReleaseNotes.pdf)
-- [AJA NMOS](https://www.aja.com/products/aja-control-room#support) - ✅ Yes, Native Apple Silicon Support as of v16.1 - [Release Notes](https://www.aja.com/pdf/2021/AJA-Software-Installer_macOS_v16.1_ReleaseNotes.pdf)
-- [AJA System Test](https://www.aja.com/products/aja-system-test#support) - ✅ Yes, Native Apple Silicon Support as of v16.1 - [Release Notes](https://www.aja.com/pdf/2021/AJA-Software-Installer_macOS_v16.1_ReleaseNotes.pdf)
-- [Akku](https://github.com/jariz/Akku) - The missing macOS bluetooth headset battery indicator app.
-- [Alacritty](https://github.com/alacritty/alacritty/releases) - ✳️ Yes, works via Rosetta 2 Translation - [Verification](https://github.com/ThatGuySam/doesitarm/issues/600#issue-834311784)
+- [Airtool2](https://www.intuitibits.com/products/airtool2/) - Capture Wi-Fi traffic Like a Pro.
+- [AJA Control Room](https://www.aja.com/products/aja-control-room) - Unified Ingest, Playback and Output Software.
+- [AJA System Test](https://www.aja.com/products/aja-system-test) - Accurately Test Your System Performance.
+- [Alacritty](https://github.com/alacritty/alacritty/releases) - A fast, cross-platform, OpenGL terminal emulator.
 - [Alchemy](http://al.chemy.org/) - Experimental, open-source drawing application with an emphasis on creating conceptual art.
-- [AlDente](https://github.com/davidwernhart/AlDente/releases) - ✅ Yes, Full Native Apple Silicon Support as of v2.0 - [Release Notes](https://github.com/davidwernhart/AlDente/releases)
-- [Alfred](https://www.alfredapp.com/universal/) - ✅ Yes, fully supported - [Official Announcement](https://www.alfredapp.com/blog/announcements/alfred-ready-for-apple-m1-chip/)
+- [AlDente](https://github.com/davidwernhart/AlDente/releases) - MacOS menu bar tool to limit maximum charging percentage and more.
+- [Alfred](https://www.alfredapp.com/) - Alfred is an award-winning app for macOS which boosts your efficiency with hotkeys, keywords, text expansion and more.
 - [Algo](https://github.com/trailofbits/algo) - Personal IPSEC VPN in the cloud.
-- [AliWangWang](https://wangwang.taobao.com/) - ✳️ Yes, works via Rosetta 2 translation - [Verification](https://github.com/ThatGuySam/doesitarm/issues/221#issuecomment-869537398)
-- [AliYuQue](https://www.yuque.com/install/desktop) - Cloud note-taking knowledge management, collaboration platform, Markdown based writing, support embedded flow chart, brain diagram, timing sequence, code rendering, Sketch board creation, personal knowledge sharing, etc. Compared to youdao cloud note and evernote similar products, which include all of its functions, support knowledge sharing and more powerful creation, collaboration and editor, it comes from alibaba ant financial.
-- [Almighty] - Unlock 50+ Mac shortcuts
+- [Almighty](https://indiegoodies.com/almighty) - Over 50 cool Mac tweaks and extra utilities to supercharge your Mac experience.
 - [Alt-Tab](https://alt-tab-macos.netlify.app/) - Windows alt-tab on macOS.
-- [alternativeTo](http://alternativeto.net/) - Also a very nice community. If you are looking for some alternative apps **FOR** Windows or another platform, check this site.
-- [AltTab](https://github.com/lwouis/alt-tab-macos) - AltTab brings the power of Windows alt-tab to macOS.
 - [Amadine](https://amadine.com) - A vector drawing app that has everything a graphic designer needs wrapped in an uncluttered and intuitive interface.
 - [Amazing AI](https://sindresorhus.com/amazing-ai) - Generate images from text using Stable Diffusion.
-- [Amazon Music](https://music.amazon.com/NA/help/apps) - ✳️ Yes, works via Rosetta 2 translation - [Verification](https://github.com/ThatGuySam/doesitarm/issues/634#issue-870540625)
 - [Amethyst](http://ianyh.com/amethyst/) - A tiling window manager for macOS.
-- [AmorphousDiskMark](https://apps.apple.com/us/app/amorphousdiskmark/id1168254295) - ✅ Yes, full native Apple Silicon support as of v3.1
+- [AmorphousDiskMark](https://apps.apple.com/us/app/amorphousdiskmark/id1168254295) - Measures storage performance.
 - [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12) - The most awesome keep-awake app ever created for macOS.
 - [Amplenote](https://www.amplenote.com/) - Write it down. Get it done.
-- [Anaconda](https://www.anaconda.com/products/individual#Downloads) - ✅ Yes, Native Apple Silicon Support as of v2022.05 - [Verification](https://github.com/ThatGuySam/doesitarm/issues/123#issuecomment-1149490298)
-- [Android File Transfer](https://www.android.com/filetransfer/) - ✳️ Yes, works via Rosetta 2 translation - [Verification](https://github.com/ThatGuySam/doesitarm/issues/707#issue-929848818)
+- [Android File Transfer](https://www.android.com/filetransfer/) - Wireless sharing with your PC, made easy.
 - [Android Studio](https://developer.android.com/studio/index.html) - The official IDE for Android, based on Intellij IDEA.
 - [Android tool for Mac](https://github.com/mortenjust/androidtool-mac) - One-click screenshots, video recordings, app installation for iOS and Android.
-- [Angry IP Scanner](https://angryip.org/download/#mac) - ✳️ Yes, works via Rosetta 2 translation - [Verification](https://github.com/ThatGuySam/doesitarm/issues/809#issue-1045931393)
+- [Angry IP Scanner](https://angryip.org/download/#mac) - Fast and friendly network scanner.
 - [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template) - Angular "language" support
-- [Anki](https://apps.ankiweb.net/) - ✳️ Yes, fully supported as of 2.1.52 - [Verification](https://github.com/ThatGuySam/doesitarm/issues/495)
+- [Anki](https://apps.ankiweb.net/) - Anki is a program which makes remembering things easy.
 - [AnnePro-mac](https://github.com/msvisser/AnnePro-mac) - macOS application for controlling AnnePro keyboard over bluetooth.
 - [Another Redis Desktop Manager](https://github.com/qishibo/AnotherRedisDesktopManager) - A faster, better and more stable redis desktop manager.
-- [Anti-Virus](#anti-virus)
 - [Antivirus One](https://cleanerone.trendmicro.com/antivirus-one-for-mac/?utm_source=github&utm_medium=referral&utm_campaign=githubproject) - Trusted Mac Security Protection.
 - [Anvil](http://anvilformac.com/) - Serve up static sites and Rack apps with simple URLs and zero configuration.
 - [AnyBar](https://github.com/tonsky/AnyBar) - A menubar status indicator.
-- [AnyDesk](https://anydesk.com/en/downloads/mac-os) - ✅ Yes, Full Native Apple Silicon Support - [🧪 Apple Silicon App Tested](https://doesitarm.com/apple-silicon-app-test/)
-- [AnyDo](https://www.any.do/) - Your busy life deserves this.
-- [AnyDroid] - Move files between Mac and Android
-- [AnyTrans](https://www.imobie.com/anytrans/download.htm) - ✳️ Yes, works via Rosetta 2 translation - [Article](https://setapp.sjv.io/apple-silicon-supported-apps) [View on Setapp](https://setapp.sjv.io/anytrans)
+- [AnyDesk](https://anydesk.com/en/downloads/mac-os) - Your Remote Desktop Software for Mac.
+- [AnyDo](https://www.any.do/) - A simple to do list to manage it all.
+- [AnyDroid](https://www.imobie.com/anydroid/) - Move files between Mac and Android.
+- [AnyTrans](https://www.imobie.com/anytrans/) - AnyTrans is an all-in-one manager for your iPhone, iPad, iPod, iTunes, and iCloud content. It lets you transfer, manage, and back up iOS data in a way easy, fast, and you like.
 - [Ao](https://github.com/klaudiosinani/ao) - Elegant Microsoft To-Do desktop app.
 - [Apache Directory Studio](https://directory.apache.org/studio/) - LDAP browser and Active Directory client.
-- [Apache Maven](https://maven.apache.org/download.cgi) - ✳️ Yes, works via Rosetta 2 - [Verification](https://github.com/ThatGuySam/doesitarm/issues/215#issuecomment-742910724)
-- [Apache Netbeans](https://github.com/apache/netbeans) - Apache NetBeans is an IDE, Tooling Platform and Application Framework suitable for development
+- [Apache Maven](https://maven.apache.org/) - Apache Maven is a software project management and comprehension tool.
+- [Apache Netbeans](https://github.com/apache/netbeans) - Apache NetBeans is an IDE, Tooling Platform and Application Framework suitable for development.
 - [Apache OpenOffice](http://www.openoffice.org/) - Apache's free and open source productivity suite.
 - [Apidog](https://www.apidog.com/) - All-in-One workspace for API Design, Documentation, Debug, Mock, Test.
-- [APNGb](https://github.com/mancunianetz/APNGb) - .apng image assembler/disassembler app.
+- [APNGb](https://github.com/mancunianetz/APNGb) - Image assembler/disassembler app.
 - [App Downloader](https://github.com/yep/app-downloader) - Easily search and download macOS apps from the huge `homebrew cask` app catalog.
 - [App Eraser](https://github.com/davunt/app-eraser) - Removes unwanted macOS applications and any related files that they leave behind.
-- [App Preview Video Converter](https://apps.apple.com/us/app/app-preview-video-converter/id1137451860) - ✅ Yes, full native support as of v1.7.4 - [Release Notes](https://www.bridgetech.io)
-- [App Reviews]: App Reviews help you keep track of user reviews for your iPhone Apps
-- [App Tamer] - Reduce CPU usage
+- [App Preview Video Converter](https://apps.apple.com/us/app/app-preview-video-converter/id1137451860) - App Preview Video Converter takes the hassle out of producing videos to use as App Previews on the iOS and Mac App Stores.
+- [App Tamer](https://www.stclairsoft.com/AppTamer/) - Reduce CPU usage.
 - [AppBox](https://github.com/getappbox/AppBox-iOSAppsWirelessInstallation) - Tool for iOS developers to build and deploy Development, Ad-Hoc and In-house (Enterprise) applications directly to the devices from your Dropbox account.
-- [AppCleaner](https://freemacsoft.net/appcleaner/) - ✅ Yes, Full Native Apple Silicon Support - [Verification](https://github.com/ThatGuySam/doesitarm/issues/559#issue-803995485)
-- [AppCode](https://www.jetbrains.com/objc/download/) - ✅ Yes, Native Apple Silicon Support as of v2020.3.1 - [Release Notes](https://blog.jetbrains.com/objc/2021/01/appcode-2020-3-1/) [Verification](https://github.com/ThatGuySam/doesitarm/issues/687#issue-913066017)
+- [AppCleaner](https://freemacsoft.net/appcleaner/) - AppCleaner is a small application which allows you to thoroughly uninstall unwanted apps.
 - [Appflowy](https://www.appflowy.io/) - Open Source Notion Alternative.
 - [AppGrid](https://github.com/mjolnirapp/AppGrid) - Grid-based keyboard window manager for macOS.
-- [AppIconBuilder](https://itunes.apple.com/app/shotbuilder/id1294179975?mt=12) - Export icons for multi-platform
+- [AppIconBuilder](https://itunes.apple.com/app/shotbuilder/id1294179975?mt=12) - Export icons for multi-platform.
 - [AppIcons](https://github.com/kuyawa/AppIcons) - Tool for generating icons in all sizes as required by macOS and iOS apps.
 - [AppJS](http://appjs.com/) - Lightweight JavaScript UI library for creating mobile webapps that behave like native apps.
 - [Apple Juice](https://github.com/raphaelhanneken/apple-juice) - Advanced battery gauge for macOS.
 - [Apple Logic Pro X](https://www.apple.com/logic-pro/) - Complete professional recording studio on the Mac.
-- [Apple Open Source](http://www.opensource.apple.com/)
-- [Apple Sample Projects](https://developer.apple.com/library/mac/navigation/#section=Resource%20Types&topic=Sample%20Code)
+- [Apple Open Source](http://www.opensource.apple.com/) - Apple featured open source projects.
 - [Apple Silicon App Test](https://doesitarm.com/apple-silicon-app-test/) - Browser-based tool for checking Apple Silicon app compatibility before you buy an M1 Mac.
-- [Apple Transporter](https://apps.apple.com/app/transporter/id1450874784?mt=12) - ✅ Yes, Full Native Apple Silicon Support as of v1.2.1
-- [Apple-Juice](https://github.com/raphaelhanneken/apple-juice) - An advanced battery gauge for macOS.
-- [AppleEvents](https://github.com/insidegui/AppleEvents) - Unofficial Apple Events app for macOS.
-- [AppleTrace](https://github.com/everettjf/AppleTrace) - Trace tool for iOS/macOS.
+- [Apple Transporter](https://apps.apple.com/app/transporter/id1450874784?mt=12) - Transporter is the simple and easy way to deliver content to Apple. 
 - [AppPolice](https://github.com/AppPolice/AppPolice) - App for macOS with a minimalistic UI which lets you quickly throttle down the CPU usage of any running process.
 - [AppStoreReviewTimes](https://github.com/arbel03/AppStoreReviewTimes) - Gives you indication about the average iOS / macOS app stores review times.
-- [Aptakube](https://aptakube.com/) - ✅ Yes, Native Apple Silicon Support
-- [Aptana Studio](https://github.com/aptana/studio3/releases) - ✳️ Yes, works via Rosetta 2 translation - [Verification](https://github.com/ThatGuySam/doesitarm/issues/16#issuecomment-869452511)
-- [Aquarelo] - Simplify color management
+- [Aptakube](https://aptakube.com/) - Modern. Lightweight. Multi-Cluster. Kubernetes GUI. Simplify your Kubernetes operation with a faster and easy to use desktop client.
+- [Aptana Studio](https://github.com/aptana/studio3/) - Aptana Studio 3 Core holds the core set of plugins used to build the Aptana Studio 3 IDE/RCP.
+- [Aquarelo](https://setapp.com/apps/aquarelo) - Simplify color management.
 - [archey-osx](http://obihann.github.io/archey-osx/) - An archey script for OS X.
-- [Archicad](https://graphisoft.com/solutions/products/archicad) - ✳️ Yes, works via Rosetta 2 translation - [Verification](https://github.com/ThatGuySam/doesitarm/issues/343#issuecomment-869564667) [Graphisoft support update](https://helpcenter.graphisoft.com/knowledgebase/130674/) [Graphisoft Thread](https://archicad-talk.graphisoft.com/viewtopic.php?p=312614) [Reddit thread](https://www.reddit.com/r/ArchiCAD/comments/hsjs6l/archicad_and_macos_armtransition/) [Tudy's feedback](https://github.com/ThatGuySam/doesitarm/pull/189#issuecomment-742729489)
-- [Archipelago](https://archipelago.dev/) - Terminal emulator built on web technology.
+- [Archicad](https://graphisoft.com/solutions/products/archicad) - Design, visualize, document, and deliver projects of all sizes with powerful set of built-in tools and easy-to-use interface that make it the most efficient and intuitive BIM software on the market.
 - [ArchiveMounter](https://github.com/ivoronin/ArchiveMounter) - Mounts archives like disk images.
-- [Archiver App](https://archiverapp.com/) - ✳️ Yes, works via Rosetta 2 translation - [Article](https://setapp.sjv.io/apple-silicon-supported-apps) [View on Setapp](https://setapp.sjv.io/archiver)
-- [Archiver] - Compress and unarchive files
-- [Arctype](https://arctype.com/) - The SQL client and database management tool that's fun to use.
+- [Archiver](https://archiverapp.com/) - Compress and unarchive files.
 - [Arc](https://arc.net/) - An innovative web browser developed by The Browser Company. It’s designed to enhance your browsing experience with features that adapt to your needs and preferences.
-- [Ardour](https://community.ardour.org/download) - ✳️ Yes, it works via Rosetta 2 with native support in progress - [Apple Silicon Pre-release](https://discourse.ardour.org/t/ardour-for-apple-m1-arm-pre-release/105174)
-- [Arduino IDE](https://www.arduino.cc/en/software) - ✳️ Reported working via Rosetta with native support currently in development - [Issue](https://github.com/arduino/Arduino/issues/10836)
+- [Ardour](https://community.ardour.org/) - Record, Edit, and Mix.
+- [Arduino IDE](https://www.arduino.cc/en/software) - Arduino IDE.
 - [aria2](https://aria2.github.io/) - Lightweight multi-protocol & multi-source command-line download utility.
-- [Ariel](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Screensaver for macOS.
 - [Arq Cloud Backup](https://www.arqbackup.com/arqcloudbackup/) - Backs up all your files automatically.
 - [Art Text 3](https://www.belightsoft.com/art-text/) - This is graphic design software specifically tuned for lettering, typography, text mockups and various artistic text effects.
-- [Artify](https://github.com/NghiaTranUIT/artify-macos) - A macOS application for bringing dedicatedly 18th century Arts to everyone
-- [ArtWall](https://github.com/JustinFincher/ASWP-for-macOS) - ArtStation set as wallpapers from artwork.rss
 - [Asana](https://asana.com/) - Work on big ideas, without the busywork.
 - [asciinema](https://github.com/asciinema/asciinema) - Easily record terminal sessions and replay them in a terminal as well as in a web browser.
-- [Aseprite](https://www.aseprite.org/download/) - ✳️ Yes, works via Rosetta 2 translation - [Verification](https://github.com/ThatGuySam/doesitarm/issues/740#issue-962905091)
+- [Aseprite](https://www.aseprite.org/download/) - Animated Spritz Editor & Pixel Art Tool.
 - [Aspect](https://aspect.bildhuus.com) - Photo organization application with support for peer-to-peer based synchronization across devices.
-- [Asphalt 9](https://apps.apple.com/us/app/asphalt-9-legends/id1491129197?mt=12) - ✅ Yes, Native Apple Silicon Support
-- [Asset Catalog Creator Pro] - Prepare icons and app assets
-- [Asset Catalog Creator](https://apps.apple.com/us/app/asset-catalog-creator-pro/id809625456) - ✅ Yes, full native support as of v3.7.4 - [Release Notes](https://www.bridgetech.io) [View on Setapp](https://setapp.sjv.io/c/2708043/905851/5114)
+- [Asset Catalog Creator](https://apps.apple.com/us/app/asset-catalog-creator-pro/id809625456) - Prepare icons and app assets
 - [Asset Catalog Tinkerer](https://github.com/insidegui/AssetCatalogTinkerer) - App that lets you open .car files and browse/extract their images. 
 - [Assetizr](https://assetizr.com) - Resizing images and optimising them for web and mobile applications.
 - [Assets](https://github.com/e7711bbear/Assets) - Assets is a macOS app that manages assets for your development projects (Xcode, web, etc).
 - [Assignee](https://assignee.app) - Simple, instant app switcher.
 - [aText](http://www.trankynam.com/atext/) - Replaces abbreviations with frequently used phrases.
-- [Atom](https://github.com/atom/atom) - The hackable text editor.
 - [Attabench](https://github.com/attaswift/Attabench) - Attabench is a microbenchmarking app for macOS, designed to measure and visualize the performance of Swift code.  
-- [Attributed String Creator](https://apps.apple.com/us/app/attributed-string-creator-pro/id730928349) - ✅ Yes, full native support as of v1.9.6 - [Release Notes](https://www.bridgetech.io)
-- [Audacity](https://www.audacityteam.org/download/) - ✳️ Yes, it works via Rosetta 2, with Native support as of alpha v3.2 - [Github Issue Comment](https://github.com/audacity/audacity/issues/684#issuecomment-710726323) [Nighty (Alpha Version)](https://www.audacityteam.org/nightly)[(fix)](https://github.com/audacity/audacity/issues/2223)
-- [Audible](https://itunes.apple.com/us/app/audible-audio-books-podcasts/id379693831?mt=8) to listen to audio books.
-- [Audio Hijack](https://rogueamoeba.com/audiohijack/) - ✅ Yes, Initial Native Apple Silicon Support as of v3.8.0 - [Release Notes](https://rogueamoeba.com/audiohijack/releasenotes.php) [Official Post](https://weblog.rogueamoeba.com/2020/11/16/rogue-amoeba-software-updates-for-macos-11-big-sur-and-m1-chip-based-macs/) 
-- [Audio Players](#audio-players)
+- [Attributed String Creator](https://apps.apple.com/us/app/attributed-string-creator-pro/id730928349) - Formatted text into Swift code.
+- [Audacity](https://www.audacityteam.org/download/) - Audacity is the world's most popular audio editing and recording app.
+- [Audible](https://itunes.apple.com/us/app/audible-audio-books-podcasts/id379693831?mt=8) - Audiobooks, Podcasts & Stories.
+- [Audio Hijack](https://rogueamoeba.com/audiohijack/) - Record any audio.
 - [Audio Profile Manager](https://apps.apple.com/us/app/audio-profile-manager/id1484150558?ls=1&mt=12) - Allows you to pin input/output devices for each particular combination of connected devices. May suppress HDMI displays from being chosen.
-- [Audio Utilities](#audio-utilities)
-- [AUHost](https://github.com/vgorloff/AUHost) - Application which hosts AudioUnits v3 using AVFoundation API.
-- [Aural Player](https://github.com/kartik-venugopal/aural-player) - Aural Player is a audio player application for the macOS platform. Inspired by the classic Winamp player for Windows, it is designed to be to-the-point and easy to use.
 - [Aural](https://github.com/kartik-venugopal/aural-player) - An audio player for macOS, inspired by Winamp.
 - [Aurees](https://aurees.com/) - A Git client for Windows, Mac and Linux.
 - [Aurora Editor](https://auroraeditor.com/) - Lightweight Code Editor (IDE) for macOS.
-- [Auryo](https://auryo.com/) - A SoundCloud client for your desktop.
-- [AutoCAD](https://www.autodesk.com/products/autocad/overview?plc=ACDIST&term=1-YEAR&support=ADVANCED&quantity=1) - ✳️ Yes, works via Rosetta 2 - [Verification](https://github.com/ThatGuySam/doesitarm/issues/499#issuecomment-754202196) [AutoDesk Forums](https://forums.autodesk.com/t5/autocad-for-mac-forum/apple-silicon/m-p/9652836)
-- [Autodesk Fusion 360](https://www.autodesk.com/products/fusion-360/overview) - ✳️ Yes, it was shown at the November 10th event running via Rosetta 2 - [Apple Nov 10 Event](https://youtu.be/5AwdkGKmZ0I?t=1114)
-- [Autodesk Maya](https://www.autodesk.com/products/maya/overview) - ✳️ Yes, it was shown at WWDC running via Rosetta 2 - [WWDC Preview](https://youtu.be/GEZhD3J89ZE?t=6036)
+- [AutoCAD](https://www.autodesk.com/products/autocad/ - Design and drafting software trusted by millions.
+- [Autodesk Fusion 360](https://www.autodesk.com/products/fusion-360/) - More than CAD, it's the future of design and manufacturing.
+- [Autodesk Maya](https://www.autodesk.com/products/maya/) - Create expansive worlds, complex characters, and dazzling effects.
 - [autojump](https://github.com/wting/autojump/wiki) - Replace `cd` with an intelligent autojump to easily navigate directories from the command line.
-- [Autokroma AfterCodecs](https://www.autokroma.com/AfterCodecs/Download) - ✅ Yes, Native Apple Silicon Support as of v1.10.6 - [Official Article](https://www.autokroma.com/blog/Apple-Silicon-ARM-M1-Compatibility-with-Adobe-Creative-Cloud-Autokroma)
-- [Autokroma BRAW (BRAW_Studio)](https://www.autokroma.com/BRAW_Studio/Download/) - ✅ Yes, Native Apple Silicon Support as of v2.5.1 - [Official Article](https://www.autokroma.com/blog/Apple-Silicon-ARM-M1-Compatibility-with-Adobe-Creative-Cloud-Autokroma)
-- [Autokroma PlumePack](https://www.autokroma.com/PlumePack/) - ✳️ Yes, works via Rosetta 2 Translation - [Official Article](https://www.autokroma.com/blog/Apple-Silicon-ARM-M1-Compatibility-with-Adobe-Creative-Cloud-Autokroma)
+- [Autokroma AfterCodecs](https://www.autokroma.com/AfterCodecs/) - AfterCodecs plugins for Adobe CC, giving you the best and missing codecs for faster exports!
+- [Autokroma BRAW (BRAW_Studio)](https://www.autokroma.com/BRAW_Studio/) - Fully-featured Blackmagic RAW Importer plugins for Adobe CC.
+- [Autokroma PlumePack](https://www.autokroma.com/PlumePack/) - PlumePack collects your PrPro projects & trim media to make it lightweight : Trim, Archive, Organize and more!
 - [AutoMute](https://github.com/yonilevy/automute) - Automatically mute the sound when headphones disconnect / Mac awake from sleep.
-- [Auxl] - Organize, test, and develop APIs
+- [Auxl](https://app.daily.dev/posts/auxl---a-whole-new-way-to-organize-test-and-develop-apis-na5nzhgvf) - A whole new way to organize, test, and develop APIs
 - [Avast Cleanup Pro for Mac](https://www.avast.com/cleanup-mac) - Every Mac needs a clean up. Every day.
 - [Avast Secure Browser](https://www.avast.com/secure-browser#mac) - The private browser that’s up to 4x faster.
 - [Avast SecureLine VPN](https://www.avast.com/secureline-vpn#mac) - Encrypts your Internet connection.
@@ -192,561 +156,453 @@ A list of applications, softwares and tools for  macOS.
 - [AVG AntiVirus for Mac](https://www.avg.com/en-us/avg-antivirus-for-mac) - Simply safer with AVG AntiVirus for Mac.
 - [AVG Secure VPN](https://www.avg.com/en-us/secure-vpn) - Secure your Wi-Fi and browse privately.
 - [AVG TuneUp](https://www.avg.com/en-us/avg-tuneup-for-mac) - Speed up, clean up and fix your Mac.
-- [Aviary Twitter Client](https://apps.apple.com/us/app/aviary/id1522043420) - ✅ Yes, Full Native Apple Silicon Support - [🧪 Apple Silicon App Tested](https://doesitarm.com/apple-silicon-app-test/)
-- [Avid Pro Tools](https://www.avid.com/pro-tools) - ✅ Yes, Full Native Apple Silicon Support as of v2023.3 - [Release Notes](https://www.avid.com/resource-center/whats-new-in-pro-tools-20233)
-- [Avid Sibelius](https://www.avid.com/sibelius) - ✅ Yes, Full Native Apple Silicon Support as of v2021.2 - [Official Article](https://avid.secure.force.com/pkb/articles/en_US/Compatibility/macOS-Big-Sur-Support)
-- [AVTouchBar](https://www.avtouchbar.com/) - ✅ Yes, Full Native Apple Silicon Support as of v3.0.6 - [🧪 Apple Silicon App Tested](https://doesitarm.com/apple-silicon-app-test/)
+- [Avid Pro Tools](https://www.avid.com/pro-tools) - Pro Tools makes music creation fast and fluid, providing a complete set of tools to create, record, edit, and mix audio.
+- [Avid Sibelius](https://www.avid.com/sibelius) - From concert halls to classrooms, more composers, arrangers, and educators rely on Sibelius to write, share, and publish music.
+- [AVTouchBar](https://www.avtouchbar.com/) - An Audio Visualizer for the Touch Bar.
 - [AVXCAssets Generator](https://github.com/angelvasa/AVXCAssets-Generator) - Takes path for your assets images and creates appiconset and imageset for you in just one click.
-- [Awake]: An app for mac osx to prevent sleeping; inspired by Caffeine
-- [Awesome Habits] - Build better habits
-- [Awesome macOS Command Line](https://github.com/herrbischoff/awesome-osx-command-line) - Use your macOS terminal shell to do awesome things.
-- [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin). Legend: Open Source apps
+- [Awake](https://github.com/xiaozi/awake-app) - An app for mac osx to prevent sleeping; inspired by Caffeine.
+- [Awesome Habits](https://www.awesome-habits.com) - Build better habits.
 - [aws-s3-uploader](https://github.com/RafalWilinski/s3-uploader) - Simple macOS app for uploading files to Amazon Web Services.
-- [Axure RP 8](http://www.axure.com) - Prototypes, specifications and diagrams in one tool.
-- [Axure RP 9](https://www.axure.com/download) - ✳️ Yes, works via Rosetta 2 - [Verification](https://github.com/ThatGuySam/doesitarm/issues/38)
-- [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio) - SQL client based on Visual Studio Code. 
-- [Backblaze](https://www.backblaze.com/) - ✅ Yes, Full Native Apple Silicon Support as of v7.0.2.494 - [Verification](https://github.com/ThatGuySam/doesitarm/issues/409#issuecomment-821298155)
+- [Axure RP](http://www.axure.com) - Prototypes, specifications and diagrams in one tool.
+- [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio) - SQL client based on Visual Studio Code.
+- [Backblaze](https://www.backblaze.com/) - Unleash innovation, unburden teams, and unlock budgets with S3-compatible cloud storage at 1/5th the cost.
 - [Background Music](https://github.com/kyleneideck/BackgroundMusic) - Automatically pause your music, set individual apps' volumes and record system audio.
-- [Backtrack] - Record audio from the past
-- [BaiduNetdisk](https://pan.baidu.com/download#pan) - ✅ Yes, Native Apple Silicon Support - [Verification](https://github.com/ThatGuySam/doesitarm/issues/957#issue-1307524119)
 - [Balance Lock](https://www.tunabellysoftware.com/balance_lock/) - Prevents audio balance from drifting left or right.
-- [Balance Open](https://github.com/balance-io/balance-open) - App for all the world’s currencies. 
 - [Balena Etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily. 
-- [balenaEtcher](https://github.com/balena-io/etcher/releases) - ✳️ Yes, works via Rosetta 2 translation - [Native Version Pulled](https://github.com/balena-io/etcher/issues/3593) [Verification](https://github.com/balena-io/etcher/issues/3593#issuecomment-978150772)
 - [Balsamiq Mockups](https://balsamiq.com/products/mockups/) - Wire-framing tool that helps you work faster and smarter.
-- [Bandizip](https://en.bandisoft.com/bandizip.mac/) - ✅ Yes, Full Native Apple Silicon Support as of v7.03 - [Release Notes](https://en.bandisoft.com/bandizip.mac/history/)
-- [Barrier KVM](https://github.com/debauchee/barrier/releases) - ✳️ Yes, works via Rosetta 2 translation - [Verification](https://github.com/ThatGuySam/doesitarm/issues/261#issuecomment-869423175)
+- [Bandizip](https://en.bandisoft.com/bandizip.mac/) - All-in-One Archiver for your Mac.
 - [Barrier](https://github.com/debauchee/barrier) - Open-source KVM Switch Software.  
 - [baRSS – Menu Bar RSS Reader](https://github.com/relikd/barss) - RSS & Atom feed reader that lives in the system status bar. 
-- [Bartender](https://www.macbartender.com/) - ✅ Yes, fully supported as of v4.0.20 - [Blog](https://www.macbartender.com/b4blog/Apple-Silicon-Support/) [View on Setapp](https://setapp.sjv.io/c/2708043/443665/5114)
+- [Bartender](https://www.macbartender.com/) - Bartender is an award-winning app for macOS that for more than 10 years has superpowered your menu bar.
 - [BarTranslate](https://github.com/ThijmenDam/BarTranslate) - A handy menu bar translator app that supports DeepL and Google Translate. 
-- [Base 2](http://menial.co.uk/base/) - A GUI for managing SQLite databases.
 - [Base](https://menial.co.uk/base/) - SQLite 3 database editor.  
 - [Bash Git Prompt](https://github.com/magicmonty/bash-git-prompt) - Show git status in command prompt  
 - [bash-it](https://github.com/Bash-it/bash-it) - Shameless ripoff of oh-my-zsh for bash.  
-- [Bash](https://www.gnu.org/software/bash/) - Mac comes with an old Bash version, install the latest one  
+- [Bash](https://www.gnu.org/software/bash/) - Mac comes with an old Bash version, install the latest one.
 - [Basilisk](https://www.basilisk-browser.org/) - A XUL-based web-browser.  
-- [Batch Image Resizer](http://www.ironstarmedia.co.uk/resources/osx-image-resizer/) - Resize a large number of images quickly on your computer.
 - [Batteries for Mac](https://www.fadel.io/batteries) - Track all your devices' batteries from your Mac.  
-- [Batteries] - Track all devices' battery levels
 - [Battery Health 3](https://fiplab.com/apps/battery-health-3-for-mac) - Detailed battery information for your MacBook, iPhone & iPad.    
-- [Battle for Wesnoth](http://www.wesnoth.org/) - Turn-based tactical strategy game, featuring both single-player and online multiplayer combat.
 - [bat](https://github.com/sharkdp/bat) - A `cat(1)` clone with syntax highlighting and Git integration.
-- [Bazel](https://bazel.build/) - ✅ Yes, Full Native Apple Silicon Support as of v4.1 - [Release Notes](https://blog.bazel.build/2021/05/21/bazel-4-1.html)
+- [Bazel](https://bazel.build/) - Open source project to build and test your multi-language, multi-platform projects.
 - [BBC Basic Editor](https://bbcmic.ro/) - BBC Micro Model B Basic Editor.  
-- [BBEdit](https://www.barebones.com/products/bbedit/download.html) - ✅ Yes, full native support as of v13.5 - [Release Notes](https://www.barebones.com/support/bbedit/notes-13.5.html)
+- [BBEdit](https://www.barebones.com/products/bbedit/) - BBEdit is the leading professional HTML and text editor for macOS.
 - [Bdash](https://github.com/bdash-app/bdash) - Modern SQL client application, supports MySQL, PostgreSQL (Redshift) and  BigQuery.
-- [Be Focused] - Manage to-do lists with timers
+- [Be Focused](https://apps.apple.com/pl/app/be-focused-pomodoro-timer/id973134470?mt=12) - Manage to-do lists with timers.
 - [Beagle IM](https://github.com/tigase/beagle-im) - Powerful XMPP client with support for file transfer, VoIP and end-to-end encryption.  
-- [Beaker Browser](https://github.com/beakerbrowser/beaker) - Beaker is an experimental peer-to-peer Web browser.     
-- [Beamer](https://beamer-app.com/) - ✳️ Yes, works via Rosetta 2 Translation - [Article](https://setapp.sjv.io/apple-silicon-supported-apps) [View on Setapp](https://setapp.sjv.io/c/2708043/815231/5114)
-- [Bear Notes](https://bear.app/) - A very simple, comprehensive and beautiful notes app for Mac
-- [Bear Writer](http://www.bear-writer.com/) - Beautiful, flexible writing app for crafting notes and prose.
-- [Bearded spice](https://github.com/beardedspice/beardedspice)
-- [Bear](https://bear.app/) - ✅ Yes, fully supported as v1.8.2 - [Bear Blog Post](https://blog.bear.app/2020/11/bear-gets-new-widgets-and-ready-for-big-sur/)
+- [Beamer](https://beamer-app.com/) - Stream Videos from Your Mac Effortlessly.
+- [Bear Notes](https://bear.app/) - A very simple, comprehensive and beautiful notes app for Mac.
+- [Bearded spice](https://github.com/beardedspice/beardedspice) - BeardedSpice allows you to control web based media players (Like SoundCloud, and YouTube) and some native apps with the media keys found on Mac keyboards.
 - [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio) - SQL editor and manager with support for SQLite, MySQL, MariaDB, Postgres, CockroachDB, SQL Server, and Amazon Redshift.   
 - [Bee](https://www.neat.io/bee/) - Issue tracker.
 - [BeMyEars](https://www.bemyears.cn/) - Free for hearing impaired, System wide on-device live caption, multi language support, just like you have YouTube subtitles everywhere.
 - [BerryCast](https://www.berrycast.com/) - A screen recording app.  
-- [Betaflight Configurator](https://github.com/betaflight/betaflight-configurator) - Cross platform configuration tool for the Betaflight firmware.   
-- [Better TOML](https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml) - Improved TOML syntax highlighting 
+- [Betaflight Configurator](https://github.com/betaflight/betaflight-configurator) - Cross platform configuration tool for the Betaflight firmware.
+- [Better TOML](https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml) - Improved TOML syntax highlighting.
 - [betterglobekey](https://github.com/Serpentiel/betterglobekey) - Make macOS Globe key great again!
 - [BetterMouse](https://better-mouse.com) - Smooth scroll, cursor acceleration prohibition, and powerful button/gesture remapping in one utility for 3rd-party mice. Aims for replacing those bulky and intrusive official drivers.
-- [BetterPiP](https://github.com/Capevace/BetterPiP) - Use native picture-in-picture with browsers such as Google Chrome for HTML5 videos. 
 - [BetterRename](http://www.publicspace.net/BetterRename/) - The most powerful and complete Mac file renaming application on the market.
 - [BetterSnapTool](https://folivora.ai/bettersnaptool/) - Sasily manage your window positions.  
-- [BetterTouchTool](https://folivora.ai/) - ✅ Yes, fully supported as of v3.502 - [Issue Tracker](https://community.folivora.ai/) [View on Setapp](https://setapp.sjv.io/c/2708043/470268/5114)
-- [BetterZip 5](https://macitbetter.com/) - the next generation of archiving.  
-- [BetterZip](https://macitbetter.com/) - ✅ Yes, Native Apple Silicon Support as of v5.1 - [Verification](https://github.com/ThatGuySam/doesitarm/issues/725#issue-950859858) [Release Notes](https://macitbetter.com/blog/BetterZip-5.1/) [Article](https://setapp.sjv.io/apple-silicon-supported-apps) [View on Setapp](https://setapp.sjv.io/c/2708043/354709/5114)
-- [Beyond Compare](https://www.scootersoftware.com/) - ✳️ Yes, works via Rosetta 2 - [Facebook Post](https://www.facebook.com/ScooterSoftware/posts/5178865142127412)
-- [BibDesk]: Bibliographic reference management software for macOS  - https://sourceforge.net/projects/bibdesk/
+- [BetterTouchTool](https://folivora.ai/) - BetterTouchTool is a great, feature packed app that allows you to customize various input devices on your Mac.
+- [BetterZip 5](https://macitbetter.com/) - The next generation of archiving.
+- [Beyond Compare](https://www.scootersoftware.com/) - Compare folders, text files, images, and tables.  Review differences efficiently and merge changes with confidence.
 - [Bidbar](https://www.getbidbar.com) - Manage bash commands from the menu bar and run them with keyboard shortcuts.
 - [Bifrost](https://github.com/ishuah/bifrost) - A tiny terminal emulator for serial port communication (macOS/Linux).   
-- [BIG-IP Edge Client](https://techdocs.f5.com/kb/en-us/bigip-edge-apps.html) - ✳️ Yes, works via Rosetta 2 translation - [Verification](https://github.com/ThatGuySam/doesitarm/issues/783#issue-1015073230)
-- [BiggerPicture](https://apps.apple.com/app/bigger-picture/id1406088493?mt=12) - ✅ Yes, Full Native Apple Silicon Support as of v1.3.0 - [Release Notes](https://basilsalad.com/kitchen/bigger-picture-big-sur/)
+- [BiggerPicture](https://apps.apple.com/app/bigger-picture/id1406088493?mt=12) - The intelligent image enlarger.
 - [Bike](https://www.hogbaysoftware.com/bike/) - Bike is a fast and fluid outliner for macOS.  
-- [bindPDF](https://github.com/vishaltelangre/bindPDF) - Combine multiple PDF files into a single PDF file using a friendly UI
-- [BingPaper](https://github.com/pengsrc/BingPaper) - Use Bing daily photo as your wallpaper on macOS. 
-- [Bitbar](https://github.com/matryer/bitbar)
-- [Bitdefender Antivirus](https://www.bitdefender.com/solutions/free.html) - Absolute antivirus protection.   
-- [Bitdefender Virus Scanner](https://www.bitdefender.com/solutions/virus-scanner-for-mac.html) - ✅ Yes, Native Apple Silicon Support as of v3.16
-- [BitPerfect](http://bitperfectsound.com/) - The Audiophile Choice.  
-- [Bitpost]: OS X app for Bitmessage  - https://github.com/Voluntarynet/Bitpost
-- [Bitwarden Menu](https://github.com/jnsdrtlf/bitwarden-menubar) - Bitwarden Password Manager in your menu bar  
-- [Bitwarden](https://bitwarden.com/) - ✅ Yes, Native Apple Silicon Support as of v1.27.1
-- [Black Formatter](https://marketplace.visualstudio.com/items?itemName=ms-python.black-formatter) - Python code formatter [[Install](vscode:extension/ms-python.black-formatter)]
-- [Black Screen](https://github.com/vshatskyi/black-screen) - A terminal emulator for the 21st century.  
+- [bindPDF](https://github.com/vishaltelangre/bindPDF) - Combine multiple PDF files into a single PDF file using a friendly UI.
+- [BingPaper](https://github.com/pengsrc/BingPaper) - Use Bing daily photo as your wallpaper on macOS.
+- [Bitdefender Antivirus](https://www.bitdefender.com/solutions/free.html) - Absolute antivirus protection for free.
+- [Bitdefender Virus Scanner](https://www.bitdefender.com/solutions/virus-scanner-for-mac.html) - Bitdefender Virus Scanner for Mac.
+- [Bitpost](https://github.com/Voluntarynet/Bitpost) - Bitpost is a user friendly Bitmessage client for OSX.
+- [Bitwarden](https://bitwarden.com/) - The password manager trusted by millions.
+- [Black Formatter](https://marketplace.visualstudio.com/items?itemName=ms-python.black-formatter) - Python code formatter.
 - [BlackHole](https://existential.audio/blackhole/) - Route Audio Between Apps.  
 - [Blackmagic Disk Speed Test](https://apps.apple.com/us/app/blackmagic-disk-speed-test/id425264550?mt=12) - Disk Speed Test is an easy to use tool to quickly measure and certify your disk performance for working with high quality video!
-- [Blender](https://www.blender.org/download/) - ✅ Yes, Native Apple Silicon Support - [Platforms State of the Union Clip](https://twitter.com/blendertoday/status/1275417203303727104?lang=en)
-- [BlockBlock](https://objective-see.com/products/blockblock.html) - Me: "Please alert me whenever anything is persistently installed." BlockBlock: "You got it"
-- [Blocs](https://blocsapp.com/) - ✅ Yes, Full Native Apple Silicon Support - [🧪 Apple Silicon App Tested](https://doesitarm.com/apple-silicon-app-test/)
+- [Blender](https://www.blender.org/) - Creating animated films, visual effects, art, 3D-printed models, motion graphics, interactive 3D applications, virtual reality, and, formerly, video games.
+- [BlockBlock](https://objective-see.com/products/blockblock.html) - Me: "Please alert me whenever anything is persistently installed." BlockBlock: "You got it".
+- [Blocs](https://blocsapp.com/) - The Ultimate Website Builder for Mac, iPad & iPhone.
 - [BlueHarvest](https://zeroonetwenty.com/blueharvest/) - Keep your disks clean of macOS metadata.  
-- [Bluesky](https://blueskyweb.xyz/) to read posts.
-- [Bluetooth Debug Menu](http://www.macobserver.com/tmo/article/os-x-bluetooth-menu-reset-devices) - Factory reset devices and more.
-- [BlurScreen App](https://www.blurscreen.app) - ✅ Yes, Full Native Apple Silicon Support 
-- [Board For GitHub](https://github.com/JustinFincher/BoardForGitHub) - Small application to monitor your GitHub project web page in a native macOS app :octocat:!  
+- [Bluesky](https://blueskyweb.xyz/) - Bluesky is social media as it should be. Find your community among millions of users, unleash your creativity, and have some fun again.
+- [BlurScreen App](https://www.blurscreen.app) - Instantly blur sensitive data on your screen while recording or screen sharing - no post-editing needed.
+- [Board For GitHub](https://github.com/JustinFincher/BoardForGitHub) - Small application to monitor your GitHub project web page in a native macOS app.
 - [BoltAI](https://boltai.com) - A beautiful & powerful ChatGPT app for Mac. Stay ahead by integrating AI into your workflow today.
 - [BookletCreator](https://www.bookletcreator.com/) - Create a booklet from a PDF document.  
 - [Bookpedia](https://www.bruji.com/bookpedia/) - What's on your shelves?  
-- [Boom 3D](https://www.globaldelight.com/boom/) - ✅ Yes, Native Apple Silicon Support - [Verification](https://github.com/ThatGuySam/doesitarm/issues/679#issue-906756300)
-- [Boom3D](https://www.globaldelight.com/boom/) - Volume Booster & Equalizer.  
-- [Boop](https://apps.apple.com/us/app/boop/id1518425043) - A more powerful alternative to DevToys  
+- [Boom 3D](https://www.globaldelight.com/boom/) - Volume Booster & Equalizer.  
+- [Boop](https://apps.apple.com/us/app/boop/id1518425043) - A more powerful alternative to DevToys.
 - [Boostnote](https://github.com/BoostIO/BoostNote-Legacy) - Note-taking application made for programmers just like you.    
 - [Bootstrap Studio](https://bootstrapstudio.io/) - A powerful desktop app for creating responsive websites using the Bootstrap framework.
 - [BorgBase/Vorta](https://github.com/borgbase) - Simple and Secure Offsite Backups   
 - [Box Sync](https://www.box.com/personal) - Online synchronization tool.   
 - [Boxer](http://boxerapp.com/) - The DOS game emulator that’s fit for your Mac.
-- [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) - Colors matching brackets [[Install](vscode:extension/CoenraadS.bracket-pair-colorizer-2)]
-- [Brackets](http://brackets.io) - A modern, open source text editor that understands web design.  (https://github.com/brackets-cont/brackets/) 
-- [Brave Browser](https://github.com/brave/brave-browser) - Brave browser for Desktop and Laptop computers running Windows, macOS, and Linux.    
-- [Brave](https://brave.com/) - On a mission to fix the web.  
-- [Brew](https://brew.sh)
+- [Brackets](http://brackets.io) - A modern, open source text editor that understands web design.
+- [Brave](https://brave.com/) - Brave browser for Desktop and Laptop computers running Windows, macOS, and Linux.    
+- [Brew](https://brew.sh) - Homebrew - The Missing Package Manager for macOS (or Linux).
 - [Brisk](https://github.com/br1sk/brisk) - macOS app for submitting radars. 
 - [Brooklyn](https://github.com/pedrommcarrasco/Brooklyn) - Screensaver inspired by Apple's Event on October 30, 2018. 
 - [Browserosaurus](https://browserosaurus.com/) - The browser prompter for macOS.  
-- [bruno](https://www.usebruno.com/) - Bruno is a offline-only, fast and git-friendly opensource API client. 
-- [Buildwatch] - Track your build time in Xcode
+- [bruno](https://www.usebruno.com/) - Bruno is a offline-only, fast and git-friendly opensource API client.
+- [Buildwatch](https://www.buildwatch.app) - Track your build time in Xcode.
 - [Bunch](https://bunchapp.co/) - Your new favorite macOS automation tool.  
-- [Bundled Notes](https://bundlednotes.com/) - There's a new kid on the block.  
-- [Burn for Mac](https://burn-osx.sourceforge.io/Pages/English/home.html) - ✅ Yes, Full Native Apple Silicon Support as of v3.0.0 - [Release Notes](https://burn-osx.sourceforge.io/Pages/English/news.html)
-- [Burn](https://sourceforge.net/projects/burn-osx/) - Simple but advanced disc burning for macOS.  
-- [BusyCal](https://www.busymac.com/busycal/) - ✅ Yes, Full Native Apple Silicon Support - [Article](https://setapp.sjv.io/apple-silicon-supported-apps) [View on Setapp](https://setapp.sjv.io/c/2708043/471907/5114)
+- [Bundled Notes](https://bundlednotes.com/) - There's a new kid on the block - notes app.
+- [Burn for Mac](https://burn-osx.sourceforge.io/Pages/English/home.html) - There are a lot of ways to approach burning discs. Burn keeps it simple, but still offers a lot of advanced options.
+- [BusyCal](https://www.busymac.com/busycal/) - Calendar - Powerful · Elegant · Customizable.
 - [BusyContacts](https://www.busymac.com/busycontacts/index.html) - The most powerful contact manager for macOS.  
 - [Butler](https://manytricks.com/butler/) - The original Many Tricks pony.  
 - [Buttercup](https://buttercup.pw) - The Password Manager You Deserve.  
-- [Bypass Paywalls](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass paywall on lots of popular news sites
-- [Byword](http://www.bywordapp.com/) - Excellent markdown editor.  
-- [Cabal](https://cabal.chat/) - Experimental p2p community chat platform.  
+- [Bypass Paywalls](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass paywall on lots of popular news sites.
+- [Byword](http://www.bywordapp.com/) - Excellent markdown editor.
+- [Cabal](https://cabal.chat/) - Experimental p2p community chat platform.
 - [Cacher](https://www.cacher.io/) - Cloud-based, team-enabled code snippet manager with Gist sync, VSCode/Atom/Sublime packages and Mac/Windows/Linux/Web clients.
-- [Cactus]: Static site generator for designers in Python and Django templates, with lightweight GUI app for macO
-- [Caddy](https://caddyserver.com/download) - ✅ Yes, Full Native Apple Silicon Support - [Verification](https://github.com/ThatGuySam/doesitarm/issues/577#issuecomment-783684858)
-- [CADintosh](https://www.lemkesoft.de/en/products/cadintosh/download/) - ✅ Yes, Full Native Apple Silicon Support - [🧪 Apple Silicon App Tested](https://doesitarm.com/apple-silicon-app-test/)
-- [Caffeinated](https://caffeinated.app/) - ✅ Yes, Native Apple Silicon Support as of v1.20 - [Verification](https://github.com/ThatGuySam/doesitarm/issues/739#issue-961150860)
-- [Cakebrew](https://github.com/brunophilipe/Cakebrew) - Manage your Homebrew formulas with style using Cakebrew.  
+- [Cactus](https://github.com/eudicots/Cactus) - Static site generator for designers in Python and Django templates, with lightweight GUI app for macOS.
+- [Caddy](https://caddyserver.com/) - Makes your sites more secure, more reliable, and more scalable than any other solution.
+- [CADintosh](https://www.lemkesoft.de/en/products/cadintosh/) - CADintosh is a High Performance 2D CAD program for Technical Draftsmen and Designers.
+- [Caffeinated](https://caffeinated.app/) - Keep your Mac awake.
+- [Cakebrew](https://github.com/brunophilipe/Cakebrew) - Manage your Homebrew formulas with style using Cakebrew.
 - [calabash-launcher](https://github.com/xing/calabash-launcher) - iOS Calabash Launcher is a macOS app that helps you run and manage Calabash tests on your Mac. 
-- [Calcbot](https://tapbots.com/calcbot/mac/) - An Intelligent Calculator and Unit Converter.  
+- [Calcbot](https://tapbots.com/calcbot/mac/) - An Intelligent Calculator and Unit Converter.
 - [Calculeta](https://github.com/varol/Calculeta) - Calculator for macOS which working on statusbar.  
-- [Calendars](https://readdle.com/calendars) - Own your time.   
-- [CalHash](https://titanium-software.fr/en/calhash.html) - ✅ Yes, Full Native Apple Silicon Support - [Release Notes](https://titanium-software.fr/en/release_calhash.html)
-- [Calibre](https://calibre-ebook.com/download_osx) - ✳️ Yes, works via Rosetta 2 - [Verification](https://github.com/ThatGuySam/doesitarm/issues/26#issuecomment-736778254)
+- [Calendars](https://readdle.com/calendars) - Own your time. Connect all your calendars, manage all your events & tasks, see everything at a glance.
+- [CalHash](https://titanium-software.fr/en/calhash.html) - CalHash is a utility that you can use to calculate and compare the checksum (also known as a message-digest-fingerprint) for a file.
+- [Calibre](https://calibre-ebook.com/) - Calibre is a powerful and easy to use e-book manager.
 - [Calmly Writer](https://calmlywriter.com/) - Distraction-Free Writing.  
 - [Camera Preview](https://sindresorhus.com/camera-preview) - Preview your webcam, take photos, and use it as a mirror.
-- [CameraBag Pro] - Edit photos and videos
-- [Camo Studio](https://reincubate.com/camo/) - ✅ Yes, Full Native Apple Silicon Support - [Release Notes](https://reincubate.com/support/camo/release-notes/#1.1.3.122)
-- [CAM](https://github.com/hanayik/CAM) - macOS camera recording using ffmpeg    
+- [CameraBag Pro](https://nevercenter.com/camerabag/) - Edit photos and videos.
+- [Camo Studio](https://reincubate.com/camo/) - Camo enables the camera you already own to produce incredible video, whether you’re meeting, streaming, or recording. Start creating great video today.
+- [CAM](https://github.com/hanayik/CAM) - MacOS camera recording using ffmpeg.
 - [CanaryMail](https://canarymail.io/) - Secure email app for Mac and iPhone with built-in PGP Support and AI assitance.
-- [Canary](https://canarymail.io/) - Secure Email App for Mac and iPhone.  
-- [canSnippet](https://www.cansnippet.com/) - Powerful snippet management tool that works across the whole operating system, always accessible via simple keyboard shortcut.
-- [Capo](https://supermegaultragroovy.com/products/capo/mac/) - ✅ Yes, Full Native Apple Silicon Support as of v4 - [Official Post](https://supermegaultragroovy.com/products/capo/press/pr/2020-11-17/)
+- [Capo](https://supermegaultragroovy.com/products/capo/mac/) - Capo uses a blend of advanced signal processing and machine learning to help you learn songs by ear.
 - [Caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook-Messenger client.  
 - [CapsLockNoDelay](https://github.com/gkpln3/CapsLockNoDelay) - Removes caps-lock key activation delay for fast typers
-- [Captain](https://getcaptain.co) - Manage Docker containers. Free.  
-- [Capto] - Record and edit videos
-- [CaptuocrToy](https://github.com/sfragrance/CaptuocrToy) - Tool to capture screenshot and recognize text by online ocr apis. 
-- [Capture One](https://www.captureone.com/) - ✅ Yes, Native Apple Silicon Support as of v14.2.0 - [Release Notes](https://support.captureone.com/hc/en-us/articles/360020418257-Capture-One-21-14-2-0-release-notes)
+- [Captain](https://getcaptain.co) - Manage Docker containers from menu bar. Free.
+- [Capto](https://www.globaldelight.com/capto/) - Record and edit videos.
+- [Capture One](https://www.captureone.com/) - The imaging software to shoot, edit, and collaborate the way you want.
 - [Carbon Copy Cloner](http://bombich.com) - Create incremental and fully bootable backups of your Mac to external storage.
 - [Carbonite](https://www.carbonite.com/learn/how-to-backup-mac/) - Carbonite can protect your Mac from all of the most common forms of data loss.
-- [CardHop](https://flexibits.com/cardhop) - Contacts manager. One Cardhop, All Your Devices.    
-- [Caret](https://caret.io/) - Clean markdown editor [`brew install --cask caret`]
+- [CardHop](https://flexibits.com/cardhop) - Contacts manager. One Cardhop, All Your Devices.
+- [Caret](https://caret.io/) - Clean markdown editor.
 - [Carol](https://github.com/AnaghSharma/Carol) - A minimal and beautiful lyrics app for macOS. 
-- [Cashew](https://github.com/dhennessy/OpenCashew) - Cashew macOS Github Issue Tracker. ![c_icon] 
-- [Castor](https://sr.ht/~julienxx/Castor/) - A Browser for the small internet (Gemini, Gopher, Finger).  
-- [Catch](https://github.com/mipstian/catch/) - Catch: Broadcatching made easy. 
+- [Cashew](https://github.com/dhennessy/OpenCashew) - Cashew macOS Github Issue Tracker.
+- [Castor](https://sr.ht/~julienxx/Castor/) - A Browser for the small internet (Gemini, Gopher, Finger).
+- [Catch](https://github.com/mipstian/catch/) - Catch: Broadcatching made easy.
 - [ccat](https://github.com/jingweno/ccat) - The colorizing cat which works similar to cat but displays content with syntax highlighting.
-- [CCMenu]: CCMenu is a Mac application to monitor continuous integration servers
-- [cd to... ](https://github.com/jbtule/cdto) - Finder Toolbar app to open the current directory in the Terminal 
-- [Celeste](https://mattmakesgames.itch.io/celeste?ac=QWRPsg4sVvG) - ✳️ Yes, works via Rosetta 2 translation as v1.4.0.0 - [Verification](https://github.com/ThatGuySam/doesitarm/issues/1021#issue-1847811849) [View on Itch.io](https://mattmakesgames.itch.io/celeste?ac=QWRPsg4sVvG)
-- [Cerebro](https://cerebroapp.com/) -  Open-source productivity booster with a brain. 
-- [Character Animator](https://www.adobe.com/products/character-animator.html) - ✅ Yes, Native Apple Silicon Support - [Official Adobe Status Page](https://helpx.adobe.com/download-install/kb/apple-silicon-m1-chip.html)
-- [Charles Web Debugging Proxy](https://www.charlesproxy.com/download/) - ✅ Yes, Full Native Apple Silicon Support as of v5.0b7 - [Release Notes](https://www.charlesproxy.com/documentation/version-history/)
-- [Charles](https://www.charlesproxy.com/) - HTTP proxy / HTTP monitor / Reverse Proxy that enables a developer to view all of the HTTP and SSL / HTTPS traffic between their machine and the Internet.  
+- [CCMenu](https://ccmenu.org) - CCMenu is a Mac application to monitor continuous integration servers.
+- [cd to... ](https://github.com/jbtule/cdto) - Finder Toolbar app to open the current directory in the Terminal.
+- [Cerebro](https://cerebroapp.com/) - Open-source productivity booster with a brain.
+- [Character Animator](https://www.adobe.com/products/character-animator.html) - Animate in real time. Really. Use your expressions and movements to bring your characters to life with Character Animator.
+- [Charles](https://www.charlesproxy.com/) - HTTP proxy / HTTP monitor / Reverse Proxy that enables a developer to view all of the HTTP and SSL / HTTPS traffic between their machine and the Internet.
 - [Charmstone](https://charmstone.app/) - The quicker switcher launcher for macOS.  
-- [ChatGPT](https://apps.apple.com/us/app/chatgpt/id6448311069) to ask questions of all kind (textual / audio / visual).
-- [ChatMate for WhatsApp] - Personalize WhatsApp
-- [CheatSheet](https://www.cheatsheetapp.com/CheatSheet/) - Know your short cuts. 
-- [ChefInspector](https://github.com/Yasumoto/ChefInspector) - Node and Attribute viewer for Chef 
+- [ChatGPT](https://apps.apple.com/us/app/chatgpt/id6448311069) - Official ChatGPT to ask questions of all kind (textual / audio / visual).
+- [ChatMate for WhatsApp](https://chatmate.io) - Personalize WhatsApp.
+- [ChefInspector](https://github.com/Yasumoto/ChefInspector) - Node and Attribute viewer for Chef .
 - [CherryTree](https://www.giuspen.com/cherrytree/) - A hierarchical note taking application.  
-- [Chess](https://opensource.apple.com/source/Chess/Chess-410.4.1/) - The chess app that comes with macOS. ![objective-c_icon] 
-- [Chia Blockchain](https://www.chia.net/) - ✳️ Yes, works via Rosetta 2 translation - [Issue](https://github.com/Chia-Network/chia-blockchain/issues/2313) [Changelog](https://github.com/Chia-Network/chia-blockchain/blob/main/CHANGELOG.md)
+- [Chia Blockchain](https://www.chia.net/) - The new standard in digital infrastructure and blockchain technology. Engineered to enable, empower, and innovate.
 - [Chime](https://chime.aws/) - Amazon Chime communications service.  
 - [ChipMunk](https://github.com/esrlabs/chipmunk) - Log analysis tool.  
 - [ChitChat](https://github.com/stonesam92/ChitChat) - A native Mac app wrapper for WhatsApp Web.
-- [CHM Reader](http://www.hewbo.com/chm-reader.html) - Read Compiled HTML (.chm) documents on your Mac. 
 - [Chmox](http://chmox.sourceforge.net/) - Read CHM documents on your Mac. 
 - [Choosy](https://www.choosyosx.com) - UI, URL API and a browser extension set for managing rules where and how to open links.
 - [ChordDetector](https://github.com/cemolcay/ChordDetector) - Tiny menu bar app that listens iTunes and Spotify to detect chords of songs! 
 - [Chrome MySQL Admin](https://github.com/yoichiro/chrome_mysql_admin) - Powerful Chrome app to manage your MySQL.
-- [Chrome](https://www.google.com/chrome/) - ✅ Yes, fully supported as of v87 - [Article](https://9to5google.com/2020/11/17/chrome-mac-apple-silicon/)
-- [Chromium](https://www.chromium.org/getting-involved/download-chromium) - ✅ Yes, Native Apple Silicon Support - [Verification](https://github.com/ThatGuySam/doesitarm/issues/732#issue-952269447)
-- [Chronicle] - Track bills and subscriptions
-- [ChronoSync Express](https://www.econtechnologies.com/chronosync-express/overview.html) - ✳️ Yes, works via Rosetta 2 translation - [Article](https://setapp.sjv.io/apple-silicon-supported-apps) [View on Setapp](https://setapp.sjv.io/c/2708043/344307/5114)
-- [Chronosync](https://www.econtechnologies.com/chronosync/overview.html)
+- [Chrome](https://www.google.com/chrome/) - The browser built to be the best.
+- [Chromium](https://www.chromium.org/getting-involved/download-chromium) - Chromium is an open-source browser project that aims to build a safer, faster, and more stable way for all users to experience the web.
+- [Chronicle](https://chronicleapp.com) - Track bills and subscriptions.
+- [ChronoSync Express](https://www.econtechnologies.com/chronosync-express/overview.html) - Entry level version of ChronoSync. It provides the basic file synchronization, backup & scheduling capabilities found in ChronoSync but at a more affordable price.
+- [Chronosync](https://www.econtechnologies.com/chronosync/overview.html) - ChronoSync is the complete, all-in-one solution for all of your file sync and backup needs.
 - [Cider](https://cider.sh/) - OSS Apple Music client for Windows, Linux, macOS, and more.    
-- [Cinebench](https://apps.apple.com/app/cinebench/id1438772273?l=en&mt=12) - ✅ Yes, Native Support as of v23.200 - [Source](https://github.com/ThatGuySam/doesitarm/issues/39#issuecomment-729965712)
-- [Cinema 4D](https://www.maxon.net/en/downloads) - ✅ Yes, Native Apple Silicon Support - [Release Notes](https://www.maxon.net/en/article/cinema-4d-r23-sp1-now-available) [Apple Nov 10 Event](https://youtu.be/5AwdkGKmZ0I?t=924)
-- [Cisco AnyConnect Secure Mobility Client](https://www.cisco.com/c/en/us/products/security/anyconnect-secure-mobility-client/index.html) - ✅ Yes, Native Apple Silicon Support as of v4.10 - [Release Notes](https://www.cisco.com/c/en/us/td/docs/security/vpn_client/anyconnect/anyconnect410/release/notes/release-notes-anyconnect-4-10.html#ID-1454-00000002)
-- [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer) - ✳️ Yes, works via Rosetta 2 translation - [Verification](https://github.com/ThatGuySam/doesitarm/issues/658#issue-898710471)
-- [Cisco Webex Meetings](https://www.webex.com/downloads.html) - ✅ Yes, Full Native Apple Silicon Support - [Verification](https://github.com/ThatGuySam/doesitarm/issues/530#issue-790322821)
-- [Citra Emulator](https://citra-emu.org/download/) - ✳️ Yes, works via Rosetta 2 translation - [Discussion](https://community.citra-emu.org/t/citra-on-apple-m1/327198/2) [Github Issue](https://github.com/citra-emu/citra/issues/5005)
-- [Citrix Workspace](https://www.citrix.com/downloads/workspace-app/mac/workspace-app-for-mac-latest.html) - ✳️ Yes, works via Rosetta 2 - [Discussion](https://discussions.citrix.com/topic/411196-will-citrix-viewer-run-on-new-apple-hardware-with-apple-silicon-m1/)
+- [Cinebench](https://apps.apple.com/app/cinebench/id1438772273?l=en&mt=12) - How powerful is your computer? Test it with Cinebench benchmark!
+- [Cinema 4D](https://www.maxon.net/en/cinema-4d) - 3D computer animation, modeling, simulation, and rendering software.
+- [Cisco AnyConnect Secure Mobility Client](https://www.cisco.com/c/en/us/products/security/anyconnect-secure-mobility-client/index.html) - Secure access is just the beginning.
+- [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer) - Gain real skills with our powerful network simulation tool where you practice networking, IoT, and cybersecurity skills in a virtual lab.
+- [Cisco Webex Meetings](https://www.webex.com/suite/meetings.html) - When everyone has an equitable experience, your meeting platform isn’t just helping collaboration—it’s driving better business results.
 - [ClamAV](https://www.clamav.net/) - A cross-platform, open source antivirus engine for detecting trojans, viruses, malware & other malicious threats.
-- [Claquette](https://www.peakstep.com/claquette/) - ✅ Yes, Full Native Apple Silicon Support as of v2.1 - [Release Notes](https://www.peakstep.com/claquette/releasenotes.html)
-- [ClashX](https://github.com/yichengchen/clashX#install) - ✅ Yes, Full Native Apple Silicon Support as of v1.31.1.1 - [Release Notes](https://github.com/yichengchen/clashX/releases/tag/1.31.1)
-- [clashX](https://github.com/yichengchen/clashX) - A rule based custom proxy with GUI for Mac base on clash. 
-- [Clean install / replicate my macOS fully](#clean-install--replicate-my-macos-fully)
-- [Clean my mac 3](https://macpaw.com/cleanmymac)
-- [Clean-Me](https://github.com/Kevin-De-Koninck/Clean-Me) - A macOS system analyser and cleaner.  
-- [CleanClip](https://cleanclip.cc) - The cleanest Clipboard Manager on macOS, ever! 
+- [Claquette](https://www.peakstep.com/claquette/) - Claquette is an easy-to-use video utility for the Mac.
+- [CleanMyMac](https://macpaw.com/cleanmymac) - CleanMyMac X is all-in-one package to awesomize your Mac. It cleans megatons of junk and makes your computer run faster. Just like it did on day one.
+- [CleanClip](https://cleanclip.cc) - The cleanest Clipboard Manager on macOS, ever!
 - [Cleaner for Xcode](https://github.com/waylybaye/XcodeCleaner) - Helps make your Xcode faster by removing unwanted and deprecated files.
 - [Cleaner One](https://apps.apple.com/app/apple-store/id1133028347?pt=444218&ct=GitHub&mt=8) - All-in-one Disk Cleaning Manager: Clean up your Mac and optimize its performance. Run a quick scan now to verify what's taking up your storage.
-- [CleanMyMac X](https://macpaw.com/cleanmymac) - Delete megatons of junk, malware, and make your Mac faster & more organized
-- [CleanMyMac](https://cleanmymac.com/) - ✅ Yes, Full Native Apple Silicon Support - [Article](https://setapp.sjv.io/apple-silicon-supported-apps) [View on Setapp](https://setapp.sjv.io/c/2708043/344326/5114)
-- [CleanPresenter] - Present a single window
-- [CleanShot X](https://cleanshot.com) - ✅ Yes, fully supported as of v3.4.4 - [Changelog](https://cleanshot.com/changelog/) [View on Setapp](https://setapp.sjv.io/c/2708043/569389/5114)
-- [CleanShot](https://cleanshot.com/) - Capture your Mac’s screen like a pro.  
-- [Cleanup](#cleanup)
+- [CleanPresenter](https://nonstrict.eu/cleanpresenter/) - Present a single window.
+- [CleanShot](https://cleanshot.com/) - Capture your Mac’s screen like a pro.
 - [Clear Clipboard Text Format](https://github.com/LumingYin/ClipboardClear) - Easily clear the format of your clipboard text with Clear Clipboard Text Format. 
-- [Clearview](http://www.clearview-reader.com/clearview/) - Tabbed style e-book reader for PDF, EPUB (DRM free), CHM, and MOBI.  
-- [ClearVPN](https://macpaw.com/clearvpn) - ✳️ Yes, works via Rosetta 2 translation - [Article](https://setapp.sjv.io/apple-silicon-supported-apps) [View on Setapp](https://setapp.sjv.io/clearvpn)
-- [Clementine]: Cross-platorm music player and library organizer written in C++, Qt
+- [ClearVPN](https://macpaw.com/clearvpn) - ClearVPN is a hassle-free VPN app for users who want to expand and protect their digital life.
+- [Clementine](https://www.clementine-player.org) - Cross-platorm music player and library organizer written in C++, Qt.
 - [ClickUp](https://clickup.com/) - All of your work in one place: Tasks, Docs, Chat, Goals, & more.  
-- [CLion](https://www.jetbrains.com/clion/download/#section=mac) - ✅ Yes, full native support as of v2020.3.1
+- [CLion](https://www.jetbrains.com/clion/) - A cross-platform IDE for C and C++.
 - [ClipboardCleaner](https://github.com/Zuehlke/Clipboard_Cleaner) - Automatically removes text formatting from the clipboard.
-- [Clipboard](https://getclipboard.app/) - Easy-to-use terminal clipboard manager for all platforms
+- [Clipboard](https://getclipboard.app/) - Easy-to-use terminal clipboard manager for all platforms.
 - [ClipMenu](http://www.clipmenu.com) - Clipboard manager for Mac OS X.
 - [ClipTools](https://macmost.com/cliptools) - ClipTools is a status menu application that gives you access to a variety of simple clipboard utilities.
 - [Clipy](https://clipy-app.com/) - Clipy is a Clipboard extension app for macOS. Based on ClipMenu.
-- [Cliqz](https://cliqz.com/en/) - The no-compromise browser.  
-- [Cloaker](https://github.com/spieglt/cloaker) - simple drag-and-drop, password-based file encryption.  
-- [Clobbr] - Load test API endpoints
-- [Clock-Saver]: Simple clock screensaver :large_orange_diamond:  - https://github.com/soffes/clock-saver
-- [Clocker](https://github.com/n0shake/Clocker) - macOS app to plan and organize through timezones.  
+- [Cloaker](https://github.com/spieglt/cloaker) - Simple drag-and-drop, password-based file encryption.  
+- [Clobbr](https://clobbr.app) - Load test API endpoints.
+- [Clocker](https://github.com/n0shake/Clocker) - MacOS app to plan and organize through timezones.  
 - [Clockify](https://clockify.me/mac-time-tracking) - Free Mac time tracker.  
-- [Clop] - Shrink images, video, PDFs
-- [Cloud Outliner] - Create visual outlines
-- [Cloud Storage](#cloud-storage)
-- [CloudApp](https://www.getcloudapp.com/) - Capture and share files and screenshots instantly.
+- [Clop](https://lowtechguys.com/clop/) - Shrink images, video, PDFs.
+- [Cloud Outliner](https://apps.apple.com/us/app/cloud-outliner-outline-maker/id1024917449?mt=12) - Create visual outlines.
 - [CloudClip](http://www.thinkbitz.com/cloudclip/) - Sync your clipboard between your Mac and your iOS devices.
 - [Cloudflare WARP](https://1.1.1.1/) - Replaces the connection between your device and the Internet with a modern, optimized, protocol. 
-- [CloudMounter] - Connect cloud storage to Finder
-- [CloudyTabs](https://github.com/josh-/CloudyTabs) - Simple menu bar macOS application for displaying lists of your iCloud Tabs and Reading List.  
-- [Cloudy]: mac app wrapper for overcast :large_orange_diamond:  - https://github.com/calebd/cloudy
-- [cmatrix](https://github.com/abishekvashok/cmatrix/) - CMatrix is based on the screensaver from The Matrix website. It shows text flying in and out in a terminal like as seen in "The Matrix" movie. It can scroll lines all at the same rate or asynchronously and at a user-defined speed.  (https://github.com/abishekvashok/cmatrix/) 
-- [cmus](https://cmus.github.io/) - Small, fast and powerful console music player for Unix-like operating systems.  (https://github.com/cmus) 
-- [Cocktail](https://www.maintain.se/cocktail/) - Clean, repair and optimize your Mac.  
-- [Cocoa Rest Client](https://mmattozzi.github.io/cocoa-rest-client/) - Free, open-source, native Apple OS X app for testing HTTP/REST endpoints.  (https://github.com/mmattozzi/cocoa-rest-client) 
-- [Cocoapods App]: A full-featured and standalone installation of CocoaPods  - https://github.com/CocoaPods/CocoaPods-app
-- [CocoaPods](https://cocoapods.org/) - ✳️ Yes, it works via Rosetta 2 - [Fully Native on Homebrew](https://doesitarm.com/formula/cocoapods/) [Issue](https://github.com/CocoaPods/CocoaPods/issues/9907)
-- [CocoaRestClient]: A free, native Apple OS X app for testing HTTP/REST endpoints  - https://github.com/mmattozzi/cocoa-rest-client
-- [CoconutBattery 3](https://www.coconut-flavour.com/coconutbattery/) - The standard for battery reading since 2005.  
-- [coconutBattery](https://www.coconut-flavour.com/coconutbattery/) - ✅ Yes, full native support as of v3.9.2
-- [Cocos Creator](https://www.cocos.com/en/creator/download) - ✳️ Yes, works via Rosetta 2 as of v2.4.5 - [Official Article](https://www.cocos.com/en/cocos-creator-2-4-5-supports-apples-new-m1-chip) [Release Notes](https://www.cocos.com/en/creator/download)
-- [Coda](https://coda.io/) - Enough of this sheet.  
-- [Code Editors](#code-editors)
-- [Code runner](https://coderunnerapp.com/)
-- [CodeCows](https://zeezide.de/en/products/codecows/) - Inject hundreds of ASCII Cows in any app.  
+- [CloudMounter](https://cloudmounter.net) - Connect cloud storage to Finder.
+- [cmatrix](https://github.com/abishekvashok/cmatrix/) - CMatrix is based on the screensaver from The Matrix website. It shows text flying in and out in a terminal like as seen in "The Matrix" movie.
+- [cmus](https://cmus.github.io/) - Small, fast and powerful console music player for Unix-like operating systems.
+- [Cocktail](https://www.maintain.se/cocktail/) - Clean, repair and optimize your Mac.
+- [Cocoa Rest Client](https://mmattozzi.github.io/cocoa-rest-client/) - Free, open-source, native Apple OS X app for testing HTTP/REST endpoints.
+- [CocoaPods](https://cocoapods.org/) - CocoaPods is a dependency manager for Swift and Objective-C Cocoa projects. It has over 101 thousand libraries and is used in over 3 million apps.
+- [CocoaRestClient]: A free, native Apple OS X app for testing HTTP/REST endpoints.
+- [CoconutBattery](https://www.coconut-flavour.com/coconutbattery/) - The standard for battery reading since 2005.  
+- [Cocos Creator](https://www.cocos.com/en/creator/) - Open-source, efficient, and high-performance engine for cross-platform 3D real-time content creation.
+- [Coda](https://coda.io/) - Coda brings teams and tools together for a more organized work day.
+- [CodeRunner](https://coderunnerapp.com/) - A lightweight, multi-language programming text editor and IDE for macOS.
+- [CodeCows](https://zeezide.de/en/products/codecows/) - Inject hundreds of ASCII Cows in any app.
 - [CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.  
-- [CodeKit](https://codekitapp.com/) - ✅ Yes, Native Apple Silicon Support as of v3.14.2 - [Release Notes](https://codekitapp.com/updates/#34018)
+- [CodeKit](https://codekitapp.com/) - Dozens of web development tools in one fully-native Mac app.
 - [CodeMenu](https://extiri.com/codemenu.html) - An advanced snippets manager with features like side window, access in IDEs using Suggestions app, natural language search, placeholders, code running, HTML preview and more.
-- [CodeRunner 2](https://coderunnerapp.com/) - Easy-to-use programming editor for your Mac.  
-- [CodeRunner](https://coderunnerapp.com/) - ✳️ Yes, works via Rosetta 2 Translation with native support in beta - [Verification](https://github.com/ThatGuySam/doesitarm/issues/486#issuecomment-806065818)
-- [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap) - Create "screenshots" of your code [[Install](vscode:extension/adpyke.codesnap)]
-- [Codespace](https://codespace.app/) - The code snippet manager you've been waiting for.  
-- [Code](#code)
+- [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap) - Create "screenshots" of your code.
+- [Codespace](https://codespace.app/) - The code snippet manager you've been waiting for.
 - [Codye](https://darioroa.com/codye/) - Present code in more than 180 languages and 80 themes.  
-- [Cog Player](https://cog.losno.co/download) - ✅ Yes, Full Native Apple Silicon Support - [🧪 Apple Silicon App Tested](https://doesitarm.com/apple-silicon-app-test/)
-- [Cog](http://cogx.org/) - Audio player similar to Foobar 2000.    
-- [Coherence X] - Turn websites into apps
-- [CoinBar](https://github.com/adamwaite/CoinBar) - macOS menu bar application for tracking crypto coin prices. 
-- [CoinManager]: OS X app for Coinbase  - https://github.com/D-32/CoinManager
-- [Colibri DAC DSD Test](https://apps.apple.com/us/app/colibri-dac-dsd-test/id1455508413?ls=1&mt=12) - ✅ Yes, Native Apple Silicon Support - [Verification](https://github.com/ThatGuySam/doesitarm/issues/691#issue-913934536)
-- [Colibri](https://apps.apple.com/us/app/colibri/id1178295426?ls=1&mt=12) - ✅ Yes, Native Apple Silicon Support - [Verification](https://github.com/ThatGuySam/doesitarm/issues/684#issue-912866711)
-- [Colloquy]: An IRC client for Mac OS X and iOS  - https://github.com/colloquy/colloquy
-- [Color Picker Plus](https://github.com/viktorstrate/color-picker-plus) - An Improved Color Picker for macOS.  
-- [Color Picker Pro]: Color Detection Tool for Designers and Developers  - https://github.com/oscardelben/Color-Picker-Pro
-- [Color Pickers](#color-pickers)
-- [Color-Studio](https://github.com/bernaferrari/color-studio) - Build coherent themes.  
-- [Colorpicker](https://colorpicker.fr/) - Colorpicker is a complete open-source colors manipulation tool with picking!  (https://github.com/toinane/colorpicker) 
+- [Cog](http://cogx.org/) - Audio player similar to Foobar 2000.
+- [Coherence](https://www.bzgapps.com/coherence/) - Coherence X4 is a powerful tool that allows you to turn any website into a chromium-based, isolated, native application on your Mac. 
+- [CoinManager](https://github.com/D-32/CoinManager) - OS X app for Coinbase.
+- [Colibri DAC DSD Test](https://apps.apple.com/us/app/colibri-dac-dsd-test/id1455508413?ls=1&mt=12) - DSD Test for DoP, DoPA and PCM.
+- [Colibri](https://apps.apple.com/us/app/colibri/id1178295426?ls=1&mt=12) - Native Lossless Audio.
+- [Colloquy](https://github.com/colloquy/colloquy) - An IRC client for Mac OS X and iOS.
+- [Color Picker Plus](https://github.com/viktorstrate/color-picker-plus) - An Improved Color Picker for macOS.
+- [Color Picker Pro](https://github.com/oscardelben/Color-Picker-Pro) - Color Detection Tool for Designers and Developers.
+- [Color-Studio](https://github.com/bernaferrari/color-studio) - Build coherent themes.
+- [Colorpicker](https://colorpicker.fr/) - Colorpicker is a complete open-source colors manipulation tool with picking!
 - [ColorSet](https://github.com/DigiDNA/ColorSet) - ColorSet is a macOS utility and framework allowing developers to manage custom interface colors with ease.   
-- [ColorSlurp](http://colorslurp.com/) - The best Mac color picker in the universe!  
-- [ColorSnapper 2](https://colorsnapper.com/) - Organize, adjust & export colors with style.  
-- [ColorWell](https://colorwell.sweetpproductions.com/) - macOS Color Theme generator.  
-- [comictagger](https://github.com/comictagger/comictagger) - A multi-platform app for writing metadata to digital comics.  
-- [Command Line Utilities Part 1](http://www.mitchchn.me/2014/os-x-terminal/?x)
-- [Command X](https://sindresorhus.com/command-x) - Cut and paste files in Finder.   (https://apps.apple.com/app/id1666327168)
-- [Command-Tab Plus](https://noteifyapp.com/command-tab-plus/#) - Keyboard-centric application and window switcher.  
-- [Commander One] - Two-pane file manager
-- [CommandQ](https://clickontyler.com/commandq/) - Never accidentally quit an app again. 
-- [COMSOL Multiphysics](https://www.comsol.com/comsol-multiphysics) - ✳️ Yes, works via Rosetta 2 - [Report #1](https://www.comsol.com/forum/thread/272202/new-apple-m1-machines-and-rosetta-2-intel-emulator?last=2021-02-04T17:09:35Z) [Report #2](https://www.reddit.com/r/mac/comments/kfp8tg/comsol_with_m1/glvd947?utm_source=share&utm_medium=web2x&context=3)
+- [ColorSlurp](http://colorslurp.com/) - The best Mac color picker in the universe!
+- [ColorSnapper 2](https://colorsnapper.com/) - Organize, adjust & export colors with style.
+- [ColorWell](https://colorwell.sweetpproductions.com/) - MacOS Color Theme generator.
+- [comictagger](https://github.com/comictagger/comictagger) - A multi-platform app for writing metadata to digital comics.
+- [Command X](https://sindresorhus.com/command-x) - Cut and paste files in Finder.
+- [Command-Tab Plus](https://noteifyapp.com/command-tab-plus/#) - Keyboard-centric application and window switcher.
+- [Commander One](https://commander-one.com) - Two-pane file manager.
+- [CommandQ](https://clickontyler.com/commandq/) - Never accidentally quit an app again.
+- [COMSOL Multiphysics](https://www.comsol.com/comsol-multiphysics) - Understand, Predict, and Optimize Real-World Designs, Devices, and Processes with Simulation.
 - [Conduktor](https://www.conduktor.io) - Kafka desktop client.  
 - [Condution](https://github.com/Shabang-Systems/Condution) - Create tasks, manage due dates, and filter with powerful perspectives.   
 - [Conferences.digital](https://github.com/zagahr/Conferences.digital) - Best way to watch the latest and greatest videos from your favourite developer conferences for free on your Mac.  
-- [Console](https://github.com/macmade/Console) - macOS console application.  
-- [Contacts](https://www.icloud.com/shortcuts/9ccbfdc7897f47259c493a39fea13ed5) - Start searching [Cardhop](https://flexibits.com/cardhop) for contacts
+- [Console](https://github.com/macmade/Console) - MacOS console application.  
 - [Container PS](https://github.com/Toinane/container-ps) - Menu Bar app for Docker.  
 - [contexts](https://contexts.co/) - Provides more power than the native Mac Dock. Especially when you have multiple screens, it can help you switch more quickly.
-- [ControlPlane](https://github.com/dustinrue/ControlPlane) - Automate running tasks based on where you are or what you do.  
-- [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - Good looking terminal emulator which mimics the old cathode display. [ ](https://github.com/Swordfish90/cool-retro-term)
-- [Copay](https://github.com/bitpay/copay) - A secure bitcoin wallet platform for both desktop and mobile devices. 
-- [Copied](https://copied.app/) - Clipboard manager for macOS, iOS and iPadOS.  
-- [CoppeliaSim](https://www.coppeliarobotics.com/downloads) - ✳️ Yes, works via Rosetta 2 translation - [Verification](https://github.com/ThatGuySam/doesitarm/issues/808#issue-1045206608)
-- [CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features  ] 
-- [Core Data Editor](https://github.com/ChristianKienle/Core-Data-Editor) - Core Data Editor lets you easily view, edit and analyze applications‘ data.  (https://github.com/luin/medis) 
-- [Core Shell](https://coreshell.app/) - ✳️ Yes, works via Rosetta 2 translation - [Article](https://setapp.sjv.io/apple-silicon-supported-apps) [View on Setapp](https://setapp.sjv.io/core-shell)
-- [Core Tunnel](https://coretunnel.app/) - Tunnel management made easy.  
+- [ControlPlane](https://github.com/dustinrue/ControlPlane) - Automate running tasks based on where you are or what you do.
+- [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - Good looking terminal emulator which mimics the old cathode display.
+- [CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features.
+- [Core Data Editor](https://github.com/ChristianKienle/Core-Data-Editor) - Core Data Editor lets you easily view, edit and analyze applications‘ data.
+- [Core Shell](https://coreshell.app/) - A full-featured terminal with built-in OpenSSH support, focused on managing and login to hosts efficiently.
 - [Corectl App for macOS](https://github.com/TheNewNormal/corectl.app) - Corectl App is a macOS Status bar App which works like a wrapper around the corectl command line tool corectld to control the server runtime process. 
-- [CorelDRAW](https://www.coreldraw.com/en/product/coreldraw/) - ✅ Yes, Full Native Apple Silicon Support - [Press Release](https://www.globenewswire.com/news-release/2021/03/09/2189653/0/en/CorelDRAW-Graphics-Suite-2021-Powers-Collaboration-and-Productivity-in-Graphic-Design.html)
-- [CoreLocationCLI](https://github.com/fulldecent/corelocationcli) - Get the physical location of your device and prints it to standard output  
+- [CorelDRAW](https://www.coreldraw.com/en/product/coreldraw/) - Professional graphic design software for Mac/Windows.
+- [CoreLocationCLI](https://github.com/fulldecent/corelocationcli) - Get the physical location of your device and prints it to standard output.
 - [CoreOS VM](https://github.com/TheNewNormal/coreos-osx) - CoreOS VM is macOS status bar app which allows in an easy way to control CoreOS VM on your Mac.  
 - [Cork](https://corkmac.app) - A fast, intuitive Homebrew GUI.
 - [CornerCal](https://github.com/ekreutz/CornerCal) - Simple, clean calendar and clock app for macOS. 
 - [Cornerstone](http://www.zennaware.com/cornerstone/) - Powerful version control with a gorgeous interface.
 - [Corona Tracker](https://github.com/MhdHejazi/CoronaTracker) - Coronavirus tracker app for iOS & macOS with maps & charts.  
-- [Correo](https://github.com/amitmerchant1990/correo) - Menubar/taskbar Gmail App for Windows and macOS.    
-- [CotEditor]: Lightweight plain-text editor for macOS :large_orange_diamond:  - https://github.com/coteditor/CotEditor
+- [Correo](https://github.com/amitmerchant1990/correo) - Menubar/taskbar Gmail App for Windows and macOS.
+- [CotEditor](https://github.com/coteditor/CotEditor) - Lightweight plain-text editor for macOS.
 - [Couleurs](http://couleursapp.com) - Simple app for grabbing and tweaking the colors you see on your screen. 
-- [cpuinfo](https://github.com/yusukeshib/cpuinfo) - cpumeter menubar app for mac.  
-- [cracken](https://github.com/shmuelamar/cracken) - Fast password wordlist generator.  
-- [Craft](https://www.craft.do/) - Notetaking and writing made beautiful.  (https://apps.apple.com/se/app/craft-docs-and-notes-editor/id1487937127)
-- [CRAX Commander](https://crax.soft4u2.com/) - Dual-pane and multi-tabbed file manager.  
-- [create-dmg](https://github.com/sindresorhus/create-dmg) - Create a good-looking DMG for your macOS app in seconds.  (https://github.com/sindresorhus/create-dmg) 
-- [CrossOver](https://www.codeweavers.com/) - ✳️ Runs via Rosetta 2 - [Official Blog](https://www.codeweavers.com/blog/jwhite/2020/11/10/its-great-to-live-in-interesting-times)
+- [cpuinfo](https://github.com/yusukeshib/cpuinfo) - CPUmeter menubar app for mac.
+- [cracken](https://github.com/shmuelamar/cracken) - Fast password wordlist generator.
+- [Craft](https://www.craft.do/) - Notetaking and writing made beautiful.
+- [CRAX Commander](https://crax.soft4u2.com/) - Dual-pane and multi-tabbed file manager.
+- [create-dmg](https://github.com/sindresorhus/create-dmg) - Create a good-looking DMG for your macOS app in seconds.
+- [CrossOver](https://www.codeweavers.com/crossover/) - Run your Windows® app on MacOS and Linux.
 - [Crunch](https://github.com/chrissimpkins/Crunch) - Insane(ly slow but wicked good) PNG image optimization.    
-- [Cryo](https://cryonet.io/) - Visual peer-to-peer file manager.  
-- [Crypter](https://github.com/HR/Crypter) - Crypter is an innovative, convenient and secure cross-platform crypto app that simplifies secure password generation and management by requiring you to only remember one bit, the MasterPass.    
-- [Crypto Bar](https://github.com/geraldoramos/crypto-bar) - macOS menu bar application built with Electron.    
-- [Cryptocurrency](#cryptocurrency)
-- [Cryptomator](https://cryptomator.org/) -  Multi-platform transparent client-side encryption of your files in the cloud. [ ](https://github.com/cryptomator/cryptomator/)
-- [Cubase](https://new.steinberg.net/cubase/) - Create. Produce. Mix. Repeat.  
-- [CubicBezier](https://github.com/isaced/CubicBezier) - CubicBezier Generator for macOS.  (https://github.com/isaced/CubicBezier)   (https://itunes.apple.com/us/app/cubicbezier/id1228492117?mt=12)
-- [Cumulonimbus](https://github.com/z-------------/CPod) - Simple, beautiful podcast app.    
+- [Cryo](https://cryonet.io/) - Visual peer-to-peer file manager.
+- [Crypter](https://github.com/HR/Crypter) - Crypter is an innovative, convenient and secure cross-platform crypto app that simplifies secure password generation and management by requiring you to only remember one bit, the MasterPass.
+- [Crypto Bar](https://github.com/geraldoramos/crypto-bar) - MacOS menu bar application built with Electron.  
+- [Cryptomator](https://cryptomator.org/) -  Multi-platform transparent client-side encryption of your files in the cloud.
+- [Cubase](https://new.steinberg.net/cubase/) - Create. Produce. Mix. Repeat.
+- [CubicBezier](https://github.com/isaced/CubicBezier) - CubicBezier Generator for macOS.
+- [Cumulonimbus](https://github.com/z-------------/CPod) - Simple, beautiful podcast app.
 - [CursorSense](https://www.plentycom.jp/en/cursorsense/index.html) - Mouse & trackpad driver that lets you tweak the acceleration curve and more.
-- [Cursor](https://www.cursor.sh/) as my main code editor. It is a fork of [VS Code](https://wiki.nikiv.dev/text-editors/vs-code) but gives nice AI features I use often. Use many [VSCode extensions](https://wiki.nikiv.dev/text-editors/vs-code/vs-code-extensions) with it. Keep my UI minimal and useful.
-- [CustomShortcuts](https://www.houdah.com/customShortcuts/) - Customize Mac Menu Keyboard Shortcuts.  
+- [Cursor](https://www.cursor.sh/) - Code editor. It is a fork of [VS Code](https://wiki.nikiv.dev/text-editors/vs-code) but gives nice AI features I use often.
+- [CustomShortcuts](https://www.houdah.com/customShortcuts/) - Customize Mac Menu Keyboard Shortcuts.
 - [Cutter](https://cutter.re/) - Powerful multi-platform reverse engineering tool.  
-- [Cyberduck](https://github.com/iterate-ch/cyberduck) - Cyberduck is a libre server and cloud storage browser for Mac and Windows with support for FTP, SFTP, WebDAV, Amazon S3, OpenStack Swift, Backblaze B2, Microsoft Azure & OneDrive, Google Drive and Dropbox.  
-- [Daily] - Track time easily
-- [DaisyDisk](https://daisydiskapp.com/) - ✅ Yes, Native Apple Silicon Support as of v4.12.1 - [Release Notes](https://daisydiskapp.com/downloads/appcastReleaseNotes.php?appEdition=Standard&osVersion=10.13)
-- [Dante Via](https://my.audinate.com/support/downloads/download-latest-dante-software) - ✳️ Yes, works via Rosetta 2 translation but not yet recommended - [Official Article](https://www.audinate.com/learning/faqs/dante-software-on-macos-big-sur-and-apple-m1-based-computers)
-- [Dante Virtual Soundcard](https://my.audinate.com/support/downloads/download-latest-dante-software) - ✳️ Yes, works via Rosetta 2 translation but can run natively via PKG hack - [PKG Hack](https://github.com/ThatGuySam/doesitarm/issues/918#issuecomment-1241591201)
-- [dark-mode](https://github.com/sindresorhus/dark-mode) - Control dark mode from the command-line.  
-- [Darkroom](https://darkroom.co/) - ✅ Yes, it was shown at the November 10th event - [Apple Nov 10 Event](https://youtu.be/5AwdkGKmZ0I?t=1307)
-- [Darktable](https://www.darktable.org/install/#macos) - ✳️ Yes, works via Rosetta 2 - [Source](https://github.com/ThatGuySam/doesitarm/issues/328#issuecomment-736769770) [Discussion](https://discuss.pixls.us/t/the-future-of-darktable-on-the-mac-with-arm/21290)
-- [Dash for macOS](https://kapeli.com/dash) - ✅ Yes, Full Native Apple Silicon Support as of v6 - [Verification](https://github.com/ThatGuySam/doesitarm/issues/575#issue-812547431) [Release Notes](https://blog.kapeli.com/dash-6)
+- [Cyberduck](https://github.com/iterate-ch/cyberduck) - Cyberduck is a libre server and cloud storage browser for Mac and Windows with support for FTP, SFTP, WebDAV, Amazon S3, OpenStack Swift, Backblaze B2, Microsoft Azure & OneDrive, and more.
+- [Daily](https://dailytimetracking.com) - Track time easily.
+- [DaisyDisk](https://daisydiskapp.com/) - Find out what’s taking up your disk space and recover it in the most efficient and easy way.
+- [Dante Via](https://www.getdante.com/products/software-essentials/dante-via/) - Dante Via is easy-to-use software that delivers unprecedented multi-channel routing of computer-based audio.
+- [Dante Virtual Soundcard](https://www.getdante.com/products/software-essentials/dante-virtual-soundcard/) - Supercharge your PC or Mac audio applications with Dante connectivity, delivering instant access to any audio devices on the network.
+- [dark-mode](https://github.com/sindresorhus/dark-mode) - Control dark mode from the command-line.
+- [Darkroom](https://darkroom.co/) - The easiest and most powerful photo and video editor.
+- [Darktable](https://www.darktable.org) - Darktable is an open source photography workflow application and raw developer.
+- [Dash](https://kapeli.com/dash) - Dash is an API Documentation Browser and Code Snippet Manager.
 - [Dashlane](https://www.dashlane.com) - Cloud-based password manager with award-winning design.
-- [Data Rescue](https://www.prosofteng.com/datarescue-mac-data-recovery/) - Comprehensive and professional data recovery for a multitude of scenarios.
-- [DataGrip](https://www.jetbrains.com/datagrip/download/#section=mac) - ✅ Yes, full native support as of v2020.3.1
-- [Datamosh](https://github.com/maelswarm/Datamosh) - Datamosh your videos on macOS. 
-- [DataSpell](https://www.jetbrains.com/dataspell/) - The IDE for Professional Data Scientists
-- [Dato](https://sindresorhus.com/dato) - A better menu bar clock with calendar, events, and time zones.  (https://apps.apple.com/us/app/dato/id1470584107)
-- [DatWeatherDoe](https://github.com/inderdhir/DatWeatherDoe) - Simple menu bar weather app for macOS written in Swift. 
-- [Dat](https://datproject.org/) - Distributed data sharing tool.  
-- [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/)  - Free, cross-platform video editing, color grading, video effects and audio editing software. 
-- [Day One Journal](https://apps.apple.com/app/id1055511498) - ✅ Yes, Full Native Apple Silicon Support as of v5.8 - [Release Notes](https://help.dayoneapp.com/en/articles/469749-mac-release-notes)
-- [Day One](https://dayoneapp.com/) - Excellent journaling app using text, photos, video, audio, location data, and more.  (https://apps.apple.com/us/app/day-one/id1055511498?mt=12)
-- [Day Progress](https://sindresorhus.com/day-progress) - Time remaining today in your menu bar.   (https://apps.apple.com/app/id6450280202)
-- [Day-O 2](http://www.shauninman.com/archive/2016/10/20/day_o_2_mac_menu_bar_clock) - Menu bar clock replacement with built-in calendar. 
-- [Day-O](https://shauninman.com/archive/2016/10/20/day_o_2_mac_menu_bar_clock) - Simple menu bar clock replacement.
-- [DB Browser for SQLite](http://sqlitebrowser.org/) - Official home of the DB Browser for SQLite.  (https://github.com/sqlitebrowser/sqlitebrowser) 
-- [DBeaver](http://dbeaver.jkiss.org/) - Free Universal SQL Client.  .   
-- [DbGate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application.   
-- [DCloner](https://www.pixelespressoapps.com/decloner/) - Reliable duplicate files finder.  
-- [DCommander](https://devstorm-apps.com/dc/) - Advanced file manager for Mac.  
-- [De-Notch-ifier](https://www.publicspace.net/Denotchifier/index.html) -  
-- [Deadbolt](https://github.com/alichtman/deadbolt) - The easiest file encryption tool you'll ever use. macOS-compatible, and open-source so you can trust it.  (https://github.com/alichtman/deadbolt) 
-- [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) - Debug JS in Chrome [[Install](vscode:extension/msjsdiag.debugger-for-chrome)]
-- [Deco IDE](https://www.decoide.org) - The best IDE for building React Native apps.  (https://github.com/decosoftware/deco-ide) 
+- [Data Rescue](https://www.prosofteng.com/mac-data-recovery) - Comprehensive and professional data recovery for a multitude of scenarios.
+- [DataGrip](https://www.jetbrains.com/datagrip) - A powerful cross-platform tool for relational and NoSQL databases.
+- [Datamosh](https://github.com/maelswarm/Datamosh) - Datamosh your videos on macOS.
+- [DataSpell](https://www.jetbrains.com/dataspell/) - The IDE for Professional Data Scientists, Turn data into insights with ease,
+- [Dato](https://sindresorhus.com/dato) - A better menu bar clock with calendar, events, and time zones.
+- [DatWeatherDoe](https://github.com/inderdhir/DatWeatherDoe) - Simple menu bar weather app for macOS written in Swift.
+- [Dat](https://dat-ecosystem.org) - Distributed data sharing tool. 
+- [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) - Free, cross-platform video editing, color grading, video effects and audio editing software.
+- [Day One](https://dayoneapp.com/) - Excellent journaling app using text, photos, video, audio, location data, and more.
+- [Day Progress](https://sindresorhus.com/day-progress) - Time remaining today in your menu bar.
+- [DB Browser for SQLite](http://sqlitebrowser.org/) - Official home of the DB Browser for SQLite.
+- [DBeaver](http://dbeaver.jkiss.org/) - Free Universal SQL Client.   
+- [DbGate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application.
+- [DCloner](https://www.pixelespressoapps.com/decloner/) - Reliable duplicate files finder.
+- [DCommander](https://devstorm-apps.com/dc/) - Advanced file manager for Mac.
+- [De-Notch-ifier](https://www.publicspace.net/Denotchifier/index.html) - De-Notch-ifier simply forces a black menu bar, even when you are in light mode. Voila! The notch is gone.
+- [Deadbolt](https://github.com/alichtman/deadbolt) - The easiest file encryption tool you'll ever use. macOS-compatible, and open-source so you can trust it.
+- [Deco IDE](https://www.decoide.org) - The best IDE for building React Native apps.
 - [Decode](https://microcodingapps.com/products/decode.html) - Converts Xcode Interface Builder files (Xib and Storyboard files) to Swift source code.
-- [Deepdwn](https://billiam.itch.io/deepdwn) - Explore, study, create.  
-- [Deeper for macOS](https://titanium-software.fr/en/deeper.html) - ✅ Yes, Full Native Apple Silicon Support - [Release Notes](https://titanium-software.fr/en/release_deeper.html)
+- [Deepdwn](https://billiam.itch.io/deepdwn) - Explore, study, create.
+- [Deeper for macOS](https://titanium-software.fr/en/deeper.html) - Deeper is a personalization utility for macOS that you can use to enable and disable the hidden functions of the Finder, Dock, Safari and more.
 - [Deeplink Buddy](https://deeplinkbuddy.com) - Deeplink managers, made by developer for developers.
-- [DeepL](https://www.deepl.com/en/app/) - Best quality translations 
-- [DeezPlayer](https://github.com/imanel/deezplayer) - Deezer Desktop app for Windows, Linux and macOS.   
-- [Default Folder X](https://www.stclairsoft.com/DefaultFolderX/index.html) - Quick access to your files and folders in every app. 
-- [Defold](https://defold.com/) - The ultimate game engine for web and mobile.  
-- [Dejalu]: Fast and Simple Email Client.  - https://github.com/dinhviethoa/dejalu
-- [Delicious Library 3](https://www.delicious-monster.com/) - Book Manager.  
+- [DeepL](https://www.deepl.com/en/app/) - Best quality translations.
+- [Default Folder X](https://www.stclairsoft.com/DefaultFolderX/index.html) - Quick access to your files and folders in every app.
+- [Defold](https://defold.com/) - The ultimate game engine for web and mobile.
+- [Dejalu](https://github.com/dinhviethoa/dejalu) - Fast and Simple Email Client.
+- [Delicious Library](https://www.delicious-monster.com/) - Book Manager.
 - [Deliveries](http://junecloud.com/software/mac/deliveries.html) - Beautiful and simple package tracking.
-- [Deluge](https://deluge-torrent.org/) - Deluge is a lightweight, Free Software, cross-platform BitTorrent client.  (https://dev.deluge-torrent.org/wiki/Development)    
-- [Dendron](https://www.dendron.so/) - Open-source, local-first, markdown-based, note-taking tool.  
-- [Deno](https://deno.land/) - ✅ Yes, Full Native Apple Silicon Support - [Issue](https://github.com/denoland/deno/issues/8346)
-- [Desktop Profiles](https://github.com/mamiksik/Desktop-Profiles) - An innovative desktop/window manager for macOS  
+- [Deluge](https://deluge-torrent.org/) - Deluge is a lightweight, Free Software, cross-platform BitTorrent client.
+- [Dendron](https://www.dendron.so/) - Open-source, local-first, markdown-based, note-taking tool.
+- [Deno](https://deno.land/) - Deno is the open-source JavaScript runtime for the modern web.
+- [Desktop Profiles](https://github.com/mamiksik/Desktop-Profiles) - An innovative desktop/window manager for macOS.
 - [Desktop Wallpaper Switcher](https://github.com/VioletGiraffe/desktop-wallpaper-switcher) - Win / Linux / macOS tool for managing and cycling desktop wallpapers.
-- [DeSmuME](https://desmume.org/download/) - ✅ Yes, Native Apple Silicon Support as of v0.9.13 - [Verification](https://github.com/TASEmulators/desmume/issues/418#issuecomment-1086974738)
-- [DetailsPro](https://detailspro.app/) - SwiftUI Designs Made Easy.  
+- [DeSmuME](https://desmume.org/) - Nintendo DS emulator.
+- [DetailsPro](https://detailspro.app/) - SwiftUI Designs Made Easy.
 - [Detexify](http://detexify.kirelabs.org/classify.html) - Draw a symbol and get LaTeX code for it.
-- [DevDocs for macOS](https://github.com/dteoh/devdocs-macos) - An unofficial DevDocs API documentation viewer.  
-- [DevHub](https://wangchujiang.com/DevHub/) - A feature-rich offline application, meticulously crafted to support developers in their daily tasks.    (https://apps.apple.com/app/devhub/id6476452351)
-- [DevMacToys](https://github.com/ObuchiYuki/DevToysMac) - DevToys For macOS.  
-- [DEVONsphere Express](https://www.devontechnologies.com/products/devonsphere/devonsphere-express.html)  
-- [DEVONthink](https://www.devontechnologies.com/download/) - ✅ Yes, Full Native Apple Silicon Support as of v3.5.2 - [Release Notes](https://www.devontechnologies.com/blog/20200814-devonthink-352)
-- [DevToysMac](https://github.com/ObuchiYuki/DevToysMac) - Offline toolbox that helps developers in daily tasks.  
-- [DevUtils.app](https://devutils.com/) - All-in-one Toolbox for Developers. Format/Validate JSON, encode/decode Base64, convert timestamps, debug JWT… with just one click! Native macOS app and works offline.  (https://github.com/DevUtilsApp/DevUtils-app)   (https://apps.apple.com/us/app/devutils-app/id1533756032)
+- [DevDocs](https://github.com/dteoh/devdocs-macos) - An unofficial DevDocs API documentation viewer.
+- [DevHub](https://wangchujiang.com/DevHub/) - A feature-rich offline application, meticulously crafted to support developers in their daily tasks.
+- [DEVONsphere](https://www.devontechnologies.com/apps/devonsphere) - DEVONsphere lets you discover the hidden connections between seemingly unrelated items.
+- [DEVONthink](https://www.devontechnologies.com/apps/devonthink) - DEVONthink keeps all your documents in easy-to-backup databases and presents them to you in a variety of ways.
+- [DevUtils](https://devutils.com/) - All-in-one Toolbox for Developers. Format/Validate JSON, encode/decode Base64, convert timestamps, debug JWT… with just one click! Native macOS app and works offline.
 - [Dexed](https://github.com/asb2m10/dexed) - DX7 FM multi plaform/multi format plugin.  
-- [Diagnostics](https://github.com/macmade/Diagnostics) - Diagnostics is an application displaying the diagnostic reports from applications on macOS. 
-- [Diagrams for Mac](https://diagrams.app/) - ✅ Yes, Full Native Apple Silicon Support - [Release Notes](https://diagrams.app/releases#2.0) [Article](https://setapp.sjv.io/apple-silicon-supported-apps) [View on Setapp](https://setapp.sjv.io/diagrams)
-- [Diagrams](https://diagrams.app/) - Diagram Editor.
-- [Diarly](https://apps.apple.com/app/id13s87167765) - ✳️ Yes, works via Rosetta 2 translation - [Article](https://setapp.sjv.io/apple-silicon-supported-apps) [View on Setapp](https://setapp.sjv.io/diarly)
-- [Dictionaries](https://dictionaries.io/) - Bidirectional translation, spellchecking and pronunciation.  
-- [DiffMerge](http://sourcegear.com/diffmerge/) - Application to visually compare and merge files. 
-- [Diffusion Bee](https://diffusionbee.com/) - The easiest way to generate AI art on your computer with Stable Diffusion.  (https://github.com/divamgupta/diffusionbee-stable-diffusion-ui/) 
-- [DingTalk](https://www.dingtalk.com/en) - Free, powerful and professional office tool used by over 5 million enterprises and organizations globally. 
-- [DisableMonitor](https://github.com/Eun/DisableMonitor) - Easily disable or enable a monitor on your Mac.
+- [Diagnostics](https://github.com/macmade/Diagnostics) - Diagnostics is an application displaying the diagnostic reports from applications on macOS.
+- [Diagrams](https://diagrams.app/) - Create beautiful, structured diagrams. As fast as you think.
+- [Dictionaries](https://dictionaries.io/) - Bidirectional translation, spellchecking and pronunciation.
+- [DiffMerge](http://sourcegear.com/diffmerge/) - Application to visually compare and merge files.
+- [Diffusion Bee](https://diffusionbee.com/) - The easiest way to generate AI art on your computer with Stable Diffusion.
+- [DingTalk](https://www.dingtalk.com/en) - Free, powerful and professional office tool used by over 5 million enterprises and organizations globally.
 - [Discord](https://discordapp.com/) - All-in-one voice and text chat for gamers that's free, secure, and works on both your desktop and phone.
-- [Disk Doctor](https://fiplab.com/apps/disk-doctor-for-mac) - Removes tons of unneeded files.  
-- [Disk Drill](https://www.cleverfiles.com/) - ✅ Yes, Full Native Apple Silicon Support - [Article](https://setapp.sjv.io/apple-silicon-supported-apps) [View on Setapp](https://setapp.sjv.io/c/2708043/344358/5114)
-- [Disk Utilities](#disk-utilities)
+- [Disk Doctor](https://fiplab.com/apps/disk-doctor-for-mac) - Removes tons of unneeded files.
+- [Disk Drill](https://www.cleverfiles.com/) - Recover deleted, lost, or damaged data.
 - [DiskWarrior](http://www.alsoft.com/DiskWarrior/) - Recover from filesystem corruptions when Disk Utility is out of options.
-- [DiskWave](https://diskwave.barthe.ph/) - Determine what files & folders are using your disk space.  
-- [DisplayBuddy](https://displaybuddy.app) - ✅ Yes, Full Native Apple Silicon Support as of v1.12 - [Release Notes](https://displaybuddy.app/public/DisplayBuddy_1.12.html)
-- [DisplayLink Manager](https://www.displaylink.com/downloads/macos) - ✅ Yes, Full Native Apple Silicon Support as of v1.3 - [Release Notes](https://gist.github.com/ThatGuySam/30e5f1d2ee4edacab6323acaa55791fc)
-- [DisplayMenu](https://github.com/Kwpolska/DisplayMenu) - Simple (bare-bones) macOS menubar extra to apply display presets. 
-- [Displays for Mac](https://www.jibapps.com/apps/displays/) - ✅ Yes, Full Native Apple Silicon Support as of v1.9.7 - [Source](https://twitter.com/jibapps/status/1338478515453386755)
-- [Displays](https://www.jibapps.com/apps/displays/) - Manage your monitors and more.  
-- [Dissolv](https://www.7sols.com/dissolv/) - Hide and close inactive apps.  (https://apps.apple.com/app/dissolv/id1640893012)
-- [Diurna](https://github.com/ngquerol/Diurna) - Basic/Classic Hacker News app, used as a Cocoa & Swift learning platform. 
+- [DiskWave](https://diskwave.barthe.ph/) - Determine what files & folders are using your disk space.
+- [DisplayBuddy](https://displaybuddy.app) - Control the brightness of monitors directly from your Mac.
+- [DisplayLink Manager](https://www.displaylink.com/downloads/macos) - DisplayLink Manager is a new way to enable your DisplayLink dock, adapter or monitor on macOS platforms.
+- [DisplayMenu](https://github.com/Kwpolska/DisplayMenu) - Simple (bare-bones) macOS menubar extra to apply display presets.
+- [Displays](https://www.jibapps.com/apps/displays/) - Manage your monitors and more.
+- [Dissolv](https://www.7sols.com/dissolv/) - Hide and close inactive apps.
+- [Diurna](https://github.com/ngquerol/Diurna) - Basic/Classic Hacker News app, used as a Cocoa & Swift learning platform.
 - [Divvy](http://mizage.com/divvy/) - Window management at its finest with its amazing Divvy Grid system.
-- [Dixer](https://dixer.stgo.do/) - ✅ Yes, Native Apple Silicon Support - [Release Notes](https://dixer.stgo.do/Changelog/#170-_-june-03-2021)
-- [djay](https://www.algoriddim.com/) - ✅ Yes, Full Native Apple Silicon Support as of v3.0 - [Release Notes](https://www.algoriddim.com/djay-pro-mac/releasenotes)
-- [Dnote](https://www.getdnote.com/) - A simple command line notebook with multi-device sync and a web interface.  (https://github.com/dnote/dnote) 
-- [DNS Heaven](https://github.com/greenboxal/dns-heaven) - Unifies macOS DNS so applications using glibc can resolve DNS with the native stack. Mainly for use with VPNs.  (https://github.com/greenboxal/dns-heaven) 
-- [DNSCrypt](https://github.com/alterstep/dnscrypt-osxclient) - Control the DNSCrypt Proxy.  
-- [Do Not Disturb](https://objective-see.com/products/dnd.html) - Detects and alerts you of physical access.  
-- [Docker Desktop](https://www.docker.com/products/docker-desktop) - The world’s leading software containerization platform.  
-- [Docker](https://hub.docker.com/editions/community/docker-ce-desktop-mac) - ✅ Yes, Native Apple Silicon Support as of v4.3.0 - [Release Notes](https://docs.docker.com/desktop/mac/release-notes/#docker-desktop-430)
-- [Dolphin](https://dolphin-emu.org/download/) - ✅ Yes, Native Apple Silicon Support as of v5.0-14295 - [Pull Request](https://github.com/dolphin-emu/dolphin/pull/9441)
-- [DomainBrain](https://domainbrainapp.com/) - Track of server and login information for websites.  
-- [Doom 64 EX](https://doom64ex.wordpress.com/) - Faithful recreation of the Doom 64 engine.  
-- [Doomseeker](https://doomseeker.drdteam.org/) - Cross-platform server browser for Doom.  
-- [DOSBox-X](https://dosbox-x.com) - ✅ Yes, Full Native Apple Silicon Support as of 0.83.8 - [Github Release](https://github.com/joncampbell123/dosbox-x/releases/tag/dosbox-x-v0.83.8)
-- [DOSBox](https://www.dosbox.com) - DOS emulation for macOS.  
-- [Double Commander](https://doublecmd.sourceforge.io/) - Cross-platform dual-pane file manager.   
-- [Doughnut](https://doughnutapp.com/) - Beautiful, open-source podcast catcher for Mac. [ ](https://github.com/dyerc/Doughnut)
-- [Downie](https://software.charliemonroe.net/downie/) - ✅ Yes, Full Native Apple Silicon Support - [Article](https://setapp.sjv.io/apple-silicon-supported-apps) [View on Setapp](https://setapp.sjv.io/c/2708043/344361/5114)
-- [Dozer](https://github.com/Mortennn/Dozer) - Hides menu bar icons for a cleaner menu bar [`brew install --cask dozer`]
-- [Drafts](https://itunes.apple.com/app/id1236254471?ls=1&mt=8&at=11l4Cf&ct=site) - ✅ Yes, Full Native Apple Silicon Support - [Official Tweet](https://twitter.com/draftsapp/status/1326263191601618945)
-- [Draw.io](https://github.com/jgraph/drawio-desktop) Drawio is a diagramming and whiteboarding desktop app  (https://github.com/jgraph/drawio-desktop)
-- [draw.io](https://github.com/jgraph/drawio-desktop/releases/) - ✅ Yes, Full Native Apple Silicon Support as of v14.1.8 - [Verification](https://github.com/ThatGuySam/doesitarm/issues/651#issue-894929786)
-- [Draw](https://www.icloud.com/shortcuts/95d7a485469945db8e71f2df2c914f88) - Open [Freeform](https://apps.apple.com/us/app/freeform/id6443742539) app
-- [Dreamweaver](https://www.adobe.com/products/dreamweaver.html) - ✅ Yes, Native Apple Silicon Support as of v21.2 - [Official Adobe Status Page](https://helpx.adobe.com/download-install/kb/apple-silicon-m1-chip.html)
-- [Dropbox](https://www.dropbox.com/) - ✳️ Yes, works via Rosetta 2 as of v110.4.458 with native support in beta - [Official Article](https://help.dropbox.com/installs-integrations/apple-silicon-support) [Release Notes](https://www.dropboxforum.com/t5/Dropbox-desktop-client-builds/Beta-Build-140-3-1903/td-p/570154)
-- [Dropover](https://dropoverapp.com/) - A macOS utility that makes Drag and Drop easier. Stash, gather or move draggable content without having to open side-by-side windows.  (https://apps.apple.com/us/app/dropover-easier-drag-drop/id1355679052)
-- [DropPoint](https://github.com/GameGodS3/DropPoint) - Make drag-and-drop easier using DropPoint. Helps to drag content without having to open side-by-side windows.   
+- [Dixer](https://dixer.stgo.do/) - Dixer is a tool to that can be used to execute a wide range of ETL, data transformation and data migration task.
+- [djay](https://www.algoriddim.com/) - Djay is an award-winning DJ software, seamlessly integrated with Apple Music.
+- [Dnote](https://www.getdnote.com/) - A simple command line notebook with multi-device sync and a web interface.
+- [DNS Heaven](https://github.com/greenboxal/dns-heaven) - Unifies macOS DNS so applications using glibc can resolve DNS with the native stack. Mainly for use with VPNs.
+- [Do Not Disturb](https://objective-see.com/products/dnd.html) - Detects and alerts you of physical access.
+- [Docker Desktop](https://www.docker.com) - The world’s leading software containerization platform.
+- [Dolphin](https://dolphin-emu.org/download/) - Dolphin is an emulator for two recent Nintendo video game consoles: the GameCube and the Wii.
+- [Doom 64 EX](https://doom64ex.wordpress.com/) - Faithful recreation of the Doom 64 engine.
+- [Doomseeker](https://doomseeker.drdteam.org/) - Cross-platform server browser for Doom.
+- [DOSBox](https://www.dosbox.com) - DOS emulation for macOS.
+- [Double Commander](https://doublecmd.sourceforge.io/) - Cross-platform dual-pane file manager.
+- [Doughnut](https://doughnutapp.com/) - Beautiful, open-source podcast catcher for Mac.
+- [Downie](https://software.charliemonroe.net/downie/) - Easily download videos from thousands of different sites.
+- [Dozer](https://github.com/Mortennn/Dozer) - Hides menu bar icons for a cleaner menu bar.
+- [Drafts](https://itunes.apple.com/app/id1236254471?ls=1&mt=8&at=11l4Cf&ct=site) - Quickly capture text and send it almost anywhere!
+- [Draw.io](https://github.com/jgraph/drawio-desktop) Drawio is a diagramming and whiteboarding desktop app.
+- [Adobe Dreamweaver](https://www.adobe.com/products/dreamweaver.html) - Create responsive websites. Really fast.
+- [Dropbox](https://www.dropbox.com/) - Dropbox delivers tools that help you move your work forward faster, keep it safe, and let you collaborate with ease.
+- [Dropover](https://dropoverapp.com/) - A macOS utility that makes Drag and Drop easier. Stash, gather or move draggable content without having to open side-by-side windows.
+- [DropPoint](https://github.com/GameGodS3/DropPoint) - Make drag-and-drop easier using DropPoint. Helps to drag content without having to open side-by-side windows.
 - [Dropshare](https://dropshare.app) - powerful menu bar application for sharing screen shots, screen recordings and all other files with over 27 storage providers.
-- [Dropshelf](https://pilotmoon.com/dropshelf/) - A drag and drop helper app for macOS. 
-- [Dropzone 4](https://aptonic.com/)
-- [Dropzone](https://aptonic.com/) - ✅ Yes, Full Native Apple Silicon Support - [Article](https://setapp.sjv.io/apple-silicon-supported-apps) [View on Setapp](https://setapp.sjv.io/c/2708043/515891/5114)
-- [dshb]: OS X system monitor in Swift :large_orange_diamond:  - https://github.com/beltex/dshb
-- [DuckDuckGo](https://duckduckgo.com/mac) - Tired of being tracked online? We can help.  
-- [Due for Mac](https://www.dueapp.com/) - ✅ Yes, Full Native Apple Silicon Support - [Article](https://setapp.sjv.io/apple-silicon-supported-apps) [View on Setapp](https://setapp.sjv.io/due)
-- [Duet](https://www.duetdisplay.com/) - Extend your desktop to iOS.  &  
-- [Due] - Receive persistent reminders
+- [Dropshelf](https://pilotmoon.com/dropshelf/) - A drag and drop helper app for macOS.
+- [Dropzone](https://aptonic.com/) - Mac app that redefines your drag and drop experience, accelerates file transfers, simplifies application launches, and seamlessly integrates with many services to optimise your workflow and increase your productivity.
+- [dshb](https://github.com/beltex/dshb) - OS X system monitor in Swift.
+- [DuckDuckGo](https://duckduckgo.com) - Tired of being tracked online? We can help.
+- [Due](https://www.dueapp.com/) - Due remembers everything you need so you don’t have to. It’s lightning-fast to set reminders, and it’s so persistent you can’t forget anything.
+- [Duet](https://www.duetdisplay.com/) - Extend your desktop to iOS.
 - [Dumper](https://bananafishsoftware.com/products/dumper/) - Extract, browse and inspect the class declarations from any Mach-O file containing Objective-C runtime information.
-- [dupeGuru](https://github.com/arsenetar/dupeguru/) - dupeGuru is a tool to find duplicate files on your computer. It can scan using file names and file contents. 
-- [Duplicate Detective](https://fiplab.com/apps/duplicate-detective-for-mac) - Remove duplicate files from your Mac.  
-- [Duplicate Finder](https://github.com/powerwolf543/DuplicateFinder) - It's a useful tool that would help you to find all duplicate files which have the same names in the specific folder.  
-- [DxO PhotoLab](https://www.dxo.com/dxo-photolab/) - ✳️ Yes, works via Rosetta 2 translation - [Verification](https://github.com/ThatGuySam/doesitarm/issues/162#issuecomment-869566486)
-- [Dylib Hijack Scanner](https://objective-see.com/products/dhs.html) - Simple utility that will scan your computer for applications that are either susceptible to dylib hijacking or have been hijacked.  (https://github.com/objective-see/DylibHijackScanner)
-- [Dynamic Dark Mode](https://github.com/ApolloZhu/Dynamic-Dark-Mode) - Dynamic Dark Mode is the app you are looking for to power up Dark Mode on macOS Mojave and beyond.  
+- [dupeGuru](https://github.com/arsenetar/dupeguru/) - dupeGuru is a tool to find duplicate files on your computer. It can scan using file names and file contents.
+- [Duplicate Detective](https://fiplab.com/apps/duplicate-detective-for-mac) - Remove duplicate files from your Mac.
+- [Duplicate Finder](https://github.com/powerwolf543/DuplicateFinder) - It's a useful tool that would help you to find all duplicate files which have the same names in the specific folder.
+- [DxO PhotoLab](https://www.dxo.com/dxo-photolab/) - The most advanced, end-to-end, RAW photo editing software.
+- [Dylib Hijack Scanner](https://objective-see.com/products/dhs.html) - Simple utility that will scan your computer for applications that are either susceptible to dylib hijacking or have been hijacked.
 - [Eagle App](https://en.eagle.cool/) - Simple and intuitive file manager with tag and annotaion for all your design files. Supports all major source, image, RAW, video, 3D, audio, font, and office files.
 - [Earth View from Google Earth](https://chrome.google.com/webstore/detail/earth-view-from-google-ea/bhloflhklmhfpedakmangadcdofhnnoh?hl=en) - A pretty Google Earth image on every new tab you open
-- [Easy Find](http://www.devontechnologies.com/products/freeware.html) - Find any file on your Mac.  
-- [EasyConnect](https://lstratman.github.io/EasyConnect/) - ✳️ Yes, works via Rosetta 2 translation as of v7.6.7 - [Verification](https://github.com/ThatGuySam/doesitarm/issues/219)
-- [Easydict](https://github.com/tisfeng/Easydict) - Easy to look up words or translate text  (https://github.com/tisfeng/Easydict)
-- [EasyEDA](https://easyeda.com/) - An Easier and Powerful Online PCB Design Tool.  
-- [EasyFind](https://www.devontechnologies.com/apps/freeware) - ✅ Yes, Native Apple Silicon Support as of v5.0.1
-- [Ecamm Live](https://www.ecamm.com/mac/ecammlive/?fp_ref=lsp) - ✳️ Yes, works via Rosetta 2 - [Official Article](https://support.ecamm.com/en/articles/4616420-ecamm-live-on-macos-11-big-sur-and-apple-silicon-m1-macs)
-- [ECheck](https://github.com/josejuanqm/ECheck) - Small tool to validate epub files for macOS. 
-- [Eclipse IDE](https://www.eclipse.org/downloads/) - ✳️ Yes, runs via Rosetta 2 translation and natively for SDK - [Release Details](https://download.eclipse.org/eclipse/downloads/drops4/R-4.20-202106111600/) [Verification](https://github.com/ThatGuySam/doesitarm/issues/626#issue-860190467)
-- [Eclipse](https://www.eclipse.org) - Popular open-source IDE, mainly for Java but with plugin support for a wide array of languages and platforms.  
-- [eDEX-UI](https://github.com/GitSquared/edex-ui) - ✅ Yes, Full Native Apple Silicon Support reported as of v2.2.6 - [Release Notes](https://github.com/GitSquared/edex-ui/releases/tag/v2.2.6)
-- [Edison Mail](https://mail.edison.tech/mac) - A customisable, simple, and beautiful email client. 
-- [Editors](#editors)
-- [Electerm](https://github.com/electerm/electerm/) - Terminal/ssh/serial port/sftp client.  
-- [Electrino](https://github.com/pojala/electrino) - Desktop runtime for apps built on web technologies, using the system's own web browser engine.  (https://github.com/pojala/electrino) 
-- [ElectroCRUD](http://garrylachman.github.io/ElectroCRUD/) - Modern MySQL CRUD application. [ ](https://github.com/garrylachman/ElectroCRUD)
-- [Electron Framework](https://www.electronjs.org/releases/stable) - ✅ Yes, full native support as of v11.0 - [Announcement](https://www.electronjs.org/blog/apple-silicon)
-- [Electronic WeChat](https://github.com/geeeeeeeeek/electronic-wechat) - Better WeChat on macOS and Linux.    
-- [ElectronMail](https://github.com/vladimiry/ElectronMail) - An Electron-based unofficial desktop client for ProtonMail.  (https://github.com/vladimiry/ElectronMail) 
-- [Electron](http://electron.atom.io) - Build cross platform desktop application with JavaScript, HTML and CSS. [ ](https://github.com/electron/electron)
-- [Element](https://github.com/vector-im/element-web) - Element is a collaboration app (currently Electron) for the [Matrix](https://matrix.org/) protocol.   
-- [Elephas] - Get AI writing assistance
-- [Elgato EpocCam Driver](https://help.elgato.com/hc/en-us/articles/360052826852-EpocCam-Release-Notes-macOS) - ✅ Yes, Native Apple Silicon Support - [Official Article](https://help.elgato.com/hc/en-us/articles/360052527791-Apple-Silicon-Compatibility-M1-Chip-)
-- [Elgato Stream Deck](https://help.elgato.com/hc/en-us/articles/360028242631-Elgato-Stream-Deck-Software-Release-Notes) - ✳️ Yes, works via Rosetta 2 translation - [Official Article](https://help.elgato.com/hc/en-us/articles/360052527791-Apple-Silicon-Compatibility-M1-Chip-)
-- [Elgato Video Capture](https://help.elgato.com/hc/en-us/articles/360028243991-Elgato-Video-Capture-Software-Release-Notes) - ✳️ Yes, works via Rosetta 2 translation - [Official Article](https://help.elgato.com/hc/en-us/articles/360052527791-Apple-Silicon-Compatibility-M1-Chip-)
-- [Elgato Wave Link](https://help.elgato.com/hc/en-us/articles/360043289491-Elgato-Wave-Link-Release-Notes) - ✳️ Yes, works via Rosetta 2 translation - [Official Article](https://help.elgato.com/hc/en-us/articles/360052527791-Apple-Silicon-Compatibility-M1-Chip-)
-- [Elixir](https://elixir-lang.org/) - A dynamic, functional language.  
-- [Elmedia Player](https://www.elmedia-video-player.com/) - ✅ Yes, full native support as of 8.0 - [Release Notes](https://www.eltima.com/blog/2021/06/elmedia-8-0-is-out.html)
-- [Elpass](https://elpass.app/) - ✅ Yes, full native Apple Silicon Support as of v1.1.10 - [Issue](https://github.com/ThatGuySam/doesitarm/issues/176)
-- [Elytra](https://elytra.app) - A Simple & Private RSS Feed Reader with native rendering for macOS & iOS  (https://apps.apple.com/app/apple-store/id1433266971?pt=119194029&ct=awesomemac&mt=8)
-- [eM Client](https://www.emclient.com) - Boost your email. Skyrocket your productivity.     
-- [Emacs](https://www.gnu.org/software/emacs/) - ✅ Yes, Full Native Apple Silicon Support reported as of v27.2-1 - [Release Notes](https://emacsformacosx.com/download/emacs-builds/Emacs-27.2-2.changes)
-- [Email Me](https://emailmeapp.net/) - Email yourself and much more with just one tap, native on macOS, iOS and WatchOS.  (https://apps.apple.com/us/app/email-me-notes-in-one-tap/id1090744587)
-- [EME](https://github.com/egoist/eme) - Open-source Markdown editor with an interface like Chrome.  
-- [emmetapp](https://emmetapp.com/) - The window manager you dream about.  
-- [Encryption](#encryption)
-- [EndNote X9](https://support.clarivate.com/Endnote/s/article/EndNote-X9?language=en_US) - ✳️ Yes, works via Rosetta 2 - [Verification](https://github.com/ThatGuySam/doesitarm/issues/704#issuecomment-867321265)
-- [EndNote](https://endnote.com/product-details) - ✅ Yes, Native Apple Silicon Support as of v20.1.0 - [Verification](https://github.com/ThatGuySam/doesitarm/issues/704#issue-925503816)
-- [Endurance](https://enduranceapp.com/) - Boost you Mac's battery.  
-- [Enpass](https://www.enpass.io/) - ✳️ Runs via Rosetta 2 - [Forum Discussion](https://discussion.enpass.io/index.php?/topic/24222-enpass-on-m1-mac-arm-silicon/&tab=comments#comment-56371)
+- [EasyConnect](https://lstratman.github.io/EasyConnect/) - A tabbed remote desktop application with a Chrome-like UI and support for RDP, VNC, SSH, Telnet, and remote PowerShell connections.
+- [Easydict](https://github.com/tisfeng/Easydict) - Easy to look up words or translate text.
+- [EasyEDA](https://easyeda.com/) - An Easier and Powerful Online PCB Design Tool.
+- [EasyFind](https://www.devontechnologies.com/apps/freeware) - EasyFind finds files and folders by name, content, tags, or comments using advanced Boolean and more.
+- [Ecamm Live](https://www.ecamm.com/mac/ecammlive/?fp_ref=lsp) - The leading live streaming & video production studio built for Mac.
+- [ECheck](https://github.com/josejuanqm/ECheck) - Small tool to validate epub files for macOS.
+- [Eclipse](https://www.eclipse.org) - Popular open-source IDE, mainly for Java but with plugin support for a wide array of languages and platforms.
+- [Electerm](https://github.com/electerm/electerm/) - Terminal/ssh/serial port/sftp client.
+- [Electrino](https://github.com/pojala/electrino) - Desktop runtime for apps built on web technologies, using the system's own web browser engine.
+- [ElectroCRUD](http://garrylachman.github.io/ElectroCRUD/) - ElectroCRUD is a powerful and flexible open-source software that simplifies CRUD operations (Create, Read, Update, Delete) on databases.
+- [Electron Framework](https://www.electronjs.org/) - Build cross-platform desktop apps with JavaScript, HTML, and CSS.
+- [ElectronMail](https://github.com/vladimiry/ElectronMail) - An Electron-based unofficial desktop client for ProtonMail.
+- [Element](https://github.com/vector-im/element-web) - Element is a collaboration app (currently Electron) for the [Matrix](https://matrix.org/) protocol.
+- [Elephas](https://elephas.app) - Get AI writing assistance.
+- [Elixir](https://elixir-lang.org/) - A dynamic, functional language.
+- [Elmedia Player](https://www.elmedia-video-player.com/) - ELMEDIA is a Mac video player that offers advanced playback and streaming options. It can handle any conceivable media format.
+- [Elpass](https://elpass.app/) - Your all-in-one password manager.
+- [Elytra](https://elytra.app) - A Simple & Private RSS Feed Reader with native rendering for macOS & iOS.
+- [eM Client](https://www.emclient.com) - Boost your email. Skyrocket your productivity.
+- [Emacs](https://www.gnu.org/software/emacs/) - An extensible, customizable, free/libre text editor — and more.
+- [Email Me](https://emailmeapp.net/) - Email yourself and much more with just one tap, native on macOS, iOS and WatchOS.
+- [EME](https://github.com/egoist/eme) - Open-source Markdown editor with an interface like Chrome.
+- [emmetapp](https://emmetapp.com/) - The window manager you dream about.
+- [EndNote](https://endnote.com/product-details) - EndNote 21, the world's best reference manager, helps you save time, stay organized, collaborate with colleagues, and ultimately, get published.
+- [Endurance](https://enduranceapp.com/) - Boost you Mac's battery.
+- [Enpass](https://www.enpass.io/) - Choose your own safest place to store passwords.
 - [EnvPane](https://github.com/hschmidt/EnvPane) - An preference pane for environment variables.
-- [Eon Timer](https://software.charliemonroe.net/eon/) - ✅ Yes, Full Native Apple Silicon Support - [Developer Article](https://blog.charliemonroe.net/big-sur-and-apple-silicon/)
-- [Epic Games Launcher](https://www.epicgames.com/store) - Game client.  
+- [Eon Timer](https://software.charliemonroe.net/eon/) - Keeping track of time that you spend on a project is the basis of every business.
 - [Epoch Flip Clock Screensaver](https://github.com/chrstphrknwtn/epoch-flip-clock-screensaver) - Unix epoch timestamp flip clock screensaver. 
-- [eqMac2](https://github.com/bitgapp/eqMac) - System-Wide Equalizer for the Mac.   ] 
-- [eqMac](https://eqmac.app) - ✅ Yes, Native Apple Silicon binary, works well as of v0.3.7, Rosetta 2 lacks performance - [Tracked Issue](https://github.com/bitgapp/eqMac/issues/413)
-- [Equinox](https://github.com/rlxone/Equinox) - Create dynamic wallpapers for macOS.    (https://apps.apple.com/us/app/equinox-create-wallpaper/id1591510203)
-- [espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander, a powerful replacement for Alfred Snippets  
-- [Espresso for macOS](https://www.espressoapp.com/) - ✳️ Yes, works via Rosetta 2 translation - [Release Notes](https://www.espressoapp.com/updates/) [Article](https://setapp.sjv.io/apple-silicon-supported-apps) [View on Setapp](https://setapp.sjv.io/espresso)
+- [eqMac](https://eqmac.app) - System-Wide Equalizer for the Mac.
+- [Equinox](https://github.com/rlxone/Equinox) - Create dynamic wallpapers for macOS.
+- [espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander, a powerful replacement for Alfred Snippets.
 - [Espresso](http://espressoapp.com/) - The web editor for Mac is back. For people who make delightful, innovative and fast websites.
-- [Etcher](https://www.balena.io/etcher/) - Flash OS images to SD cards & USB drives, safely and easily.  (https://github.com/balena-io/etcher) 
-- [Eter] - Listen to internet radio
+- [Etcher](https://www.balena.io/etcher/) - Flash OS images to SD cards & USB drives, safely and easily.
+- [Eter](https://eter.apparentsoft.com) - Stream and listen to internet radio.
 - [EtreCheck](http://etrecheck.com) - Output system information and configuration to get more informed help from Apple support professionals.
-- [Euclid](https://euclid.pr1mer.tech/) - ✅ Yes, Full Native Apple Silicon Support - [Article](https://setapp.sjv.io/apple-silicon-supported-apps) [View on Setapp](https://setapp.sjv.io/euclid)
-- [eul](https://github.com/gao-sun/eul) - macOS status monitoring app written in SwiftUI.  
+- [Euclid](https://euclid.pr1mer.tech/) - The modern calculator for MacOS.
+- [eul](https://github.com/gao-sun/eul) - MacOS status monitoring app written in SwiftUI.
 - [eureka](https://github.com/simeg/eureka) - CLI tool to input and store your ideas without leaving the terminal.  
-- [Evernote](https://evernote.com/download) - ✅ Yes, Full Native Apple Silicon Support - [Official message](https://discussion.evernote.com/forums/topic/141189-evernote-for-mac-is-now-optimized-for-m1-apple-silicon/) [Verification](https://github.com/ThatGuySam/doesitarm/issues/411#issuecomment-748291114)
-- [EXIF Sync](https://www.lemkesoft.de/en/products/exif-sync/download/) - ✅ Yes, Full Native Apple Silicon Support - [🧪 Apple Silicon App Tested](https://doesitarm.com/apple-silicon-app-test/)
-- [ExifCleaner](https://exifcleaner.com) - Remove exif metadata from images and videos with drag and drop. [ ](https://github.com/szTheory/exifcleaner)   
-- [ExpanDrive](https://www.expandrive.com/desktop/) - ✳️ Yes, works via Rosetta 2 translation - [Verification](https://github.com/ThatGuySam/doesitarm/issues/675#issue-899219758)
-- [Expenses] - Track your spending
-- [Expressions] - Speed up work with regex
+- [Evernote](https://evernote.com/download) - Evernote gives you everything you need to keep life organized—great note taking, project planning, and easy ways to find what you need, when you need it.
+- [EXIF Sync](https://www.lemkesoft.de/en/products/exif-sync/download/) - With EXIF Sync, correcting time records is no longer a problem — the application allows you to align the times of shots taken with different cameras in just a few clicks.
+- [ExifCleaner](https://exifcleaner.com) - Remove exif metadata from images and videos with drag and drop.
+- [ExpanDrive](https://www.expandrive.com/desktop/) - Seamless access to cloud storage from within any application.
+- [Expenses](https://getexpenses.app) - Track your spending.
+- [Expressions](https://setapp.com/apps/expressions) - Speed up work with regex.
 - [Extraterm](https://extraterm.org/) - The swiss army chainsaw of terminal emulators.  
-- [Extream Download Manager](https://github.com/subhra74/xdm) - a powerful tool to increase download speeds up to 500%  
-- [Eye Timer](https://adelmaer.com/eyetimer) - Take Breaks to prevent Eye Strain timer for Mac.  (https://apps.apple.com/us/app/eye-timer/id1485856873)
-- [eZip](http://ezip.awehunt.com) - An easy to use, feature-rich archiver for macOS. Supports popular formats such as RAR, ZIP, 7Z, BZ2, GZ etc. Works great with Mojave dark-mode and QuickLook. 
+- [Extream Download Manager](https://github.com/subhra74/xdm) - a powerful tool to increase download speeds up to 500%.
+- [Eye Timer](https://adelmaer.com/eyetimer) - Take Breaks to prevent Eye Strain timer for Mac.
+- [eZip](http://ezip.awehunt.com) - An easy to use, feature-rich archiver for macOS. Supports popular formats such as RAR, ZIP, 7Z, BZ2, GZ etc. Works great with Mojave dark-mode and QuickLook.
 - [f.lux](https://justgetflux.com/) - Automatically adjust your computer screen to match lighting.
-- [Face Data](https://github.com/xiaohk/FaceData) - macOS application used to auto-annotate landmarks from a video. 
-- [Facebook Messenger Desktop](https://www.messenger.com/desktop) - ✅ Yes, Full Native Apple Silicon Support as of 158.0.0.25.216 (391336574) - [Verification](https://github.com/ThatGuySam/doesitarm/issues/520)
+- [Face Data](https://github.com/xiaohk/FaceData) - macOS application used to auto-annotate landmarks from a video.
+- [Facebook Messenger Desktop](https://www.messenger.com/desktop) - A simple app that lets you text, video call, and stay close to people you care about. For Mac and PC.
 - [Falcon](https://flacon.github.io/) - An open source audio file encoder.  
 - [Fanny](http://fannywidget.com/) - Notification Center widget and menu bar application to monitor your Mac's fans and CPU temperature.
-- [Fantastical](https://flexibits.com/fantastical) - ✅ Yes, Full Native Apple Silicon Support - [Media Post](https://www.macrumors.com/2020/11/12/fantastical-update-for-macos-big-sur-apple-silicon/)
-- [far2l](https://github.com/elfmz/far2l) - Linux/Mac fork of FAR Manager v2 ![c_icon]  ] 
-- [Farrago](https://rogueamoeba.com/farrago/) - ✅ Yes, Initial Native Apple Silicon Support as of v1.6.0 - [Release Notes](https://rogueamoeba.com/farrago/releasenotes.php) [Official Post](https://weblog.rogueamoeba.com/2020/11/16/rogue-amoeba-software-updates-for-macos-11-big-sur-and-m1-chip-based-macs/) 
-- [Fast CLI](https://github.com/sindresorhus/fast-cli) - CLI client for [fast.com](https://fast.com) [`npm install --global fast-cli`]
-- [FastoNoSQL](https://fastonosql.com/) - Cross-platform GUI client for Redis, Memcached, SSDB, LevelDB, RocksDB, UnQLite, LMDB, ForestDB, Pika and Dynomite key-value databases.  (https://github.com/fastogt/fastonosql) 
-- [FastoRedis](https://fastoredis.com/) - Cross-platform professional GUI management tool for Redis.  (https://github.com/fastogt/fastoredis) 
-- [fb-mac-messenger]: Mac wrapper for Facebook messenger  - https://github.com/rsms/fb-mac-messenger
-- [Feather](https://github.com/lukakerr/feather) - Minimal, lightweight MacOS desktop application to check for regular expression pattern matches.
-- [Feedy](https://krillapps.com/feedy/) - An elegant and lightweight RSS client and news reader for your Mac.  (https://itunes.apple.com/us/app/feedy-rss-client/id588288104?ls=1&mt=12)
-- [Feishu](https://www.feishu.cn/en/) - The Only All-in-One Platform You Will Ever Need.  
-- [Fenix](https://fenixwebserver.com/) - Simple static desktop web server.  
-- [Ferdium](https://ferdium.org/) - Desktop app that helps you organize how you use your favourite apps by combining them into one application. It is based on Franz with the difference that Ferdium gives you many additional features and doesn't restrict its usage. [ ](https://github.com/ferdium/ferdium-app)
-- [Fetch](https://fetchsoftworks.com/fetch/) - Fetch is a reliable, full-featured file transfer client for the Mac, since [1989](https://en.wikipedia.org/wiki/Fetch_(FTP_client)).  
-- [FFmpeg](https://ffmpeg.org/download.html) - ✅ Yes, Full Native Apple Silicon Support via Homebrew - [Homebrew ARM Binary Available](https://formulae.brew.sh/formula/ffmpeg#default)
-- [ffWorks](https://www.ffworks.net/download.html) - ✅ Yes, full native support as of v2.2.3
-- [Figma](https://www.figma.com/downloads/) - ✅ Yes, Native Apple Silicon Support - [Report #1](https://www.reddit.com/r/FigmaDesign/comments/k58d5h/figma_client_for_apple_silicon/gje6y83/?utm_source=reddit&utm_medium=web2x&context=3) [Report #2](https://twitter.com/joeyabanks/status/1330929000701710345)
+- [Fantastical](https://flexibits.com/fantastical) - Events. Tasks. Meetings.
+- [far2l](https://github.com/elfmz/far2l) - Linux/Mac fork of FAR Manager.
+- [Farrago](https://rogueamoeba.com/farrago/) - Instantly play sound bites, audio effects, and music clips with your keyboard or mouse. Trigger audio on-demand or play clips in sequence in predefined lists. 
+- [Fast CLI](https://github.com/sindresorhus/fast-cli) - CLI client for [fast.com](https://fast.com).
+- [FastoNoSQL](https://fastonosql.com/) - Cross-platform GUI client for Redis, Memcached, SSDB, LevelDB, RocksDB, UnQLite, LMDB, ForestDB, Pika and Dynomite key-value databases.
+- [FastoRedis](https://fastoredis.com/) - Cross-platform professional GUI management tool for Redis.
+- [fb-mac-messenger](https://github.com/rsms/fb-mac-messenger) - Mac wrapper for Facebook messenger.
+- [Feedy](https://krillapps.com/feedy/) - An elegant and lightweight RSS client and news reader for your Mac.
+- [Fenix](https://fenixwebserver.com/) - Simple static desktop web server.
+- [Ferdium](https://ferdium.org/) - Desktop app that helps you organize how you use your favourite apps by combining them into one application.
+- [Fetch](https://fetchsoftworks.com/fetch/) - Fetch is a reliable, full-featured file transfer client for the Mac.
+- [FFmpeg](https://ffmpeg.org/download.html) - A complete, cross-platform solution to record, convert and stream audio and video.
+- [ffWorks](https://www.ffworks.net/download.html) - A Comprehensive Media Tool for macOS.
+- [Figma](https://www.figma.com/downloads/) - Figma helps design and development teams build great products, together.
 - [File Icons for Github and Gitlab](https://chrome.google.com/webstore/detail/file-icons-for-github-and/ficfmibkjjnpogdcfhfokmihanoldbfe?hl=en) - Adds file icons to GitHub + Gitlab, makes looking at repos online easier
-- [File Utils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils) - Command pallete for file management (duplicate, rename, etc) [[Install](vscode:extension/sleistner.vscode-fileutils)]
-- [FileMaker](https://www.claris.com/filemaker/) - ✅ Yes, Native Apple Silicon Support as of v19.3.1 - [Release Notes](https://support.claris.com/s/answerview?anum=000035590&language=en_US)
-- [Filepane] - Save time with a file manager
+- [File Utils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils) - Command pallete for file management (duplicate, rename, etc).
+- [FileMaker](https://www.claris.com/filemaker/) - The power of custom with the efficiency of low code.
+- [Filepane](https://apps.apple.com/us/app/filepane-drag-drop-utility/id847515307?mt=12) - Save time with a file manager.
 - [Fileside](https://www.fileside.app) - A modern, tiling file manager with unlimited panes.
-- [Filezilla](https://filezilla-project.org/) - ✳️ Yes, works via Rosetta 2 - [Verification](https://github.com/ThatGuySam/doesitarm/issues/17#issuecomment-729976000)
-- [FileZilla]: Cross-platform FTP/SFTP file management tool written in C++, wxWidgets  - https://sourceforge.net/projects/filezilla/
-- [Filmage Editor] - Easily edit videos like a pro
-- [Filma](https://apps.apple.com/app/filma-best-video-editor/id1456095438) - ✅ Yes, Full Native Apple Silicon Support - [🧪 Apple Silicon App Tested](https://doesitarm.com/apple-silicon-app-test/)
-- [FilterShop](https://github.com/KrisYu/FilterShop) - macOS App to explore CoreImage Filters. 
+- [Filezilla](https://filezilla-project.org/) - The free FTP solution. The FileZilla Client not only supports FTP, but also FTP over TLS (FTPS) and SFTP.
+- [Filmage Editor](https://www.filmagepro.com/filmageeditor) - Easily edit videos like a pro.
+- [Filma](https://apps.apple.com/app/filma-best-video-editor/id1456095438) - Bring your vision to life with Filma, the easy-to-use video editing app designed for creators and brands.
+- [FilterShop](https://github.com/KrisYu/FilterShop) - macOS App to explore CoreImage Filters.
+
+
 - [Final Cut Library Manager](https://www.arcticwhiteness.com/finalcutlibrarymanager/download/) - ✅ Yes, Full Native Apple Silicon Support as of v3.9 - [Release Notes](https://www.arcticwhiteness.com/blog/fclm390-fcpx1052/)
 - [Final Cut Pro](https://www.apple.com/final-cut-pro/) - ✅ Yes, it will available on Apple Silicon launch - [Apple Nov 10 Event](https://youtu.be/5AwdkGKmZ0I?t=1173) [WWDC Preview](https://youtu.be/GEZhD3J89ZE?t=5844)
 - [Finale Music](https://www.finalemusic.com/free-trial/) - ✳️ Yes, it works via Rosetta 2 translation - [Verification](https://github.com/ThatGuySam/doesitarm/issues/617#issuecomment-869333440) [System Requirements](https://makemusic.zendesk.com/hc/en-us/articles/216545087-System-Requirements-for-MakeMusic-Notation-Products)
@@ -2753,6 +2609,7 @@ A list of applications, softwares and tools for  macOS.
 - [Xamarin](https://dotnet.microsoft.com/apps/xamarin) - ✳️ Yes, works via Rosetta 2 - [Source](https://github.com/xamarin/xamarin-macios/issues/10005#issue-732495019) [Video Demo](https://doesitarm.com/tv/xamarin-and-visual-studio-on-apple-macbook-pro-13-m1-in-4k-i-rwpspmmlos/)
 - [XAMPP](https://www.apachefriends.org/download.html) - ✳️ Yes, works via Rosetta 2 - [Video Demonstration](https://doesitarm.com/tv/watch-this-before-buying-apple-m1-macbook-for-xampp-or-apple-silicon-tests-in-4k-i-ebwwewsis8s/)
 - [xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar.  
+- [xbar](https://github.com/matryer/bitbar) - xbar (the BitBar reboot) lets you put the output from any script/program in your macOS menu bar.
 - [Xbar](https://xbarapp.com/) - Put the output from any script or program into your macOS Menu Bar (the BitBar reboot). [ ](https://github.com/matryer/xbar)
 - [xBench](http://xbench.com/) - The Only Benchmark You'll Ever Need.  
 - [Xbox Game Pass for PC](https://www.xbox.com/en-US/xbox-game-pass/pc-games) - ✳️ Yes, works via Parallels virtualization - [Download Parallels](https://prf.hn/l/6qOdLPB)
@@ -2820,4 +2677,3 @@ A list of applications, softwares and tools for  macOS.
 - [Zwift](https://www.zwift.com/eu-de/download) - ✳️ Yes, works via Rosetta 2 as of v1.0 (25) - [Source](https://forums.zwift.com/t/m1-apple-silicon-compatibility/514491/81) [Verification](https://raw.githubusercontent.com/steve1878/images_does_it_arm/main/zwift_1.0_25.png)
 - [Z](https://github.com/rupa/z) - Powerful way to navigate easily by typing only a string of directory name in terminal instead of typing exact location of director.
 - [Übersicht](http://tracesof.net/uebersicht/) - Run system commands and display their output on your desktop as widgets.
-- 
